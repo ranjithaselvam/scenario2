@@ -6,6 +6,7 @@ import org.testng.annotations.Test;
 
 import com.atmecs.assignment.base.Base;
 import com.atmecs.assignment.config.Constant;
+import com.atmecs.assignment.excel.ExcelReader;
 import com.atmecs.assignment.helper.Helper;
 import com.atmecs.assignment.helper.Waits;
 import com.atmecs.assignment.report.Reports;
@@ -14,6 +15,7 @@ public class TestScript extends Base {
 	public Helper helper = new Helper();
 	public Waits waits = new Waits();
 	public Reports report = new Reports();
+	public ExcelReader er=new ExcelReader();
 
 	@BeforeClass
 	public void browserLaunch() {
@@ -29,7 +31,7 @@ public class TestScript extends Base {
 	 * 
 	 * @throws Exception
 	 */
-	@Test(priority=2)
+	@Test(priority=1)
 	public void productValidation() throws Exception {
 		waits.implicitlyWait(driver);
 
@@ -96,11 +98,9 @@ public class TestScript extends Base {
 		String actualUpdatedTotalPrice = helper.getText(driver,
 				utils.propertyRead(Constant.merchandiseMenu_file, "loc_totalprice"));
 
-
 		String expectedUpadedtotalprice = utils.propertyRead(Constant.cartProductData_file, "updatedtotalprice");
 		helper.pageValidation(actualUpdatedTotalPrice, expectedUpadedtotalprice);
-	
-		
+		helper.clickOnWebElement(driver,utils.propertyRead(Constant.merchandiseMenu_file,"loc_close"));
 
 	}
 
@@ -109,30 +109,27 @@ public class TestScript extends Base {
 	 * 
 	 */
 
+	@Test(priority = 2)
+	public void PageRedirection() {
 	
-	  @Test (priority=1)
-	  public void PageRedirection() {
-	  
-	  
-	  helper.move(driver, utils.propertyRead(Constant.homePage_file,"loc_home")); 
-	  report.logInfo("user in home menu");
-	  
-	  helper.move(driver, utils.propertyRead(Constant.homePage_file,"loc_hotsauces"));
-	  report.logInfo("user in hotsauces menu");
-	  
-	  helper.move(driver, utils.propertyRead(Constant.homePage_file, "loc_merchandise")); 
-	  report.logInfo("user in merchandise menu");
-	 
-	 helper.move(driver, utils.propertyRead(Constant.homePage_file, "loc_clearence")); 
-	 report.logInfo("user in clearence menu");
-	
-	  helper.move(driver, utils.propertyRead(Constant.homePage_file,"loc_newtohotsauces")); 
-	  report.logInfo("user in newtohotsauces menu");
-	  
-	  helper.move(driver, utils.propertyRead(Constant.homePage_file,"loc_faq"));
-	  report.logInfo("user in faq menu"); 
-	  }
-	 
+		helper.move(driver, utils.propertyRead(Constant.homePage_file, "loc_home"));
+		report.logInfo("user in home menu");
+
+		helper.move(driver, utils.propertyRead(Constant.homePage_file, "loc_hotsauces"));
+		report.logInfo("user in hotsauces menu");
+
+		helper.move(driver, utils.propertyRead(Constant.homePage_file, "loc_merchandise"));
+		report.logInfo("user in merchandise menu");
+
+		helper.move(driver, utils.propertyRead(Constant.homePage_file, "loc_clearence"));
+		report.logInfo("user in clearence menu");
+
+		helper.move(driver, utils.propertyRead(Constant.homePage_file, "loc_newtohotsauces"));
+		report.logInfo("user in newtohotsauces menu");
+
+		helper.move(driver, utils.propertyRead(Constant.homePage_file, "loc_faq"));
+		report.logInfo("user in faq menu");
+	}
 
 	@AfterClass
 	public void browserClose() {

@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-11-11T17:45:24 IST" name="Default suite" finished-at="2019-11-11T17:45:42 IST" duration-ms="18788">
+  <suite started-at="2019-11-14T10:56:20 IST" name="Default suite" finished-at="2019-11-14T10:56:37 IST" duration-ms="16807">
     <groups>
     </groups>
-    <test started-at="2019-11-11T17:45:24 IST" name="Default test" finished-at="2019-11-11T17:45:42 IST" duration-ms="18788">
+    <test started-at="2019-11-14T10:56:20 IST" name="Default test" finished-at="2019-11-14T10:56:37 IST" duration-ms="16807">
       <class name="com.atmecs.assignment.testscript.TestScript">
-        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.atmecs.assignment.testscript.TestScript@75329a49]" started-at="2019-11-11T17:45:24 IST" name="browserLaunch" finished-at="2019-11-11T17:45:27 IST" duration-ms="3069" status="PASS">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.atmecs.assignment.testscript.TestScript@20d28811]" started-at="2019-11-14T10:56:20 IST" name="browserLaunch" finished-at="2019-11-14T10:56:24 IST" duration-ms="3715" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserLaunch -->
-        <test-method signature="PageRedirection()[pri:1, instance:com.atmecs.assignment.testscript.TestScript@75329a49]" started-at="2019-11-11T17:45:27 IST" name="PageRedirection" finished-at="2019-11-11T17:45:33 IST" duration-ms="6156" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- PageRedirection -->
-        <test-method signature="productValidation()[pri:2, instance:com.atmecs.assignment.testscript.TestScript@75329a49]" started-at="2019-11-11T17:45:33 IST" name="productValidation" finished-at="2019-11-11T17:45:42 IST" duration-ms="9478" status="PASS">
+        <test-method signature="productValidation()[pri:1, instance:com.atmecs.assignment.testscript.TestScript@20d28811]" started-at="2019-11-14T10:56:24 IST" name="productValidation" finished-at="2019-11-14T10:56:35 IST" duration-ms="11059" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productValidation -->
-        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.atmecs.assignment.testscript.TestScript@75329a49]" started-at="2019-11-11T17:45:42 IST" name="browserClose" finished-at="2019-11-11T17:45:42 IST" duration-ms="22" status="PASS">
+        <test-method signature="PageRedirection()[pri:2, instance:com.atmecs.assignment.testscript.TestScript@20d28811]" started-at="2019-11-14T10:56:35 IST" name="PageRedirection" finished-at="2019-11-14T10:56:37 IST" duration-ms="1947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageRedirection -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.atmecs.assignment.testscript.TestScript@20d28811]" started-at="2019-11-14T10:56:37 IST" name="browserClose" finished-at="2019-11-14T10:56:37 IST" duration-ms="24" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserClose -->

@@ -1,21 +1,22 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" 
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.assignment</groupId>
-  <artifactId>Assignment</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
- <properties>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.assignment</groupId>
+	<artifactId>Assignment</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<properties>
 		<maven.compiler.plugin>3.8.1</maven.compiler.plugin>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<selenium.java>3.141.59</selenium.java>
-		<apache.commons.io>1.3.2</apache.commons.io>
 		<apache.poi>4.0.0</apache.poi>
 		<log4j>1.2.17</log4j>
 		<testng>7.0.0</testng>
 		<archetype.plugin>3.1.2</archetype.plugin>
 		<java.jdk>1.8</java.jdk>
+		<apache.ooxml>4.0.0</apache.ooxml>
+		<mysql.connector>8.0.18</mysql.connector>
 	</properties>
 	<profiles>
 		<profile>
@@ -81,7 +82,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>${testng}</version>
-
 		</dependency>
 
 		<dependency>
@@ -90,12 +90,16 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 			<version>${log4j}</version>
 		</dependency>
 
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>${mysql.connector}</version>
+		</dependency>
 
 		<dependency>
-			<groupId>org.apache.commons</groupId>
-			<artifactId>commons-io</artifactId>
-			<version>${apache.commons.io}</version>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml</artifactId>
+			<version>${apache.ooxml}</version>
 		</dependency>
-	
 	</dependencies>
 </project>

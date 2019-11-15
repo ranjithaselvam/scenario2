@@ -5,6 +5,7 @@
     <classes>
       <class name="com.atmecs.assignment.testscript.TestScript">
         <methods>
+          <include name="PageRedirection"/>
           <include name="browserClose"/>
           <include name="productValidation"/>
           <include name="browserLaunch"/>

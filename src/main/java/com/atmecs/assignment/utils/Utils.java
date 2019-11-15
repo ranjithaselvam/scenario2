@@ -9,8 +9,6 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Properties;
 
 import org.apache.poi.ss.usermodel.Cell;
@@ -20,6 +18,8 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+import com.atmecs.assignment.config.Constant;
 
 /**
  * purpose:Read data from external file (property reader,excel reader,csv
@@ -116,20 +116,26 @@ public class Utils {
 		}
 
 	}
-	
-	public void fetchValuesFromDataBaseUsingJdbc(String url,String userName,String password,String query,String columnName)
+	/** Read test data from data base
+	 * 
+	 * @param query
+	 * @param columnName
+	 * @return
+	 */
+	public String fetchValuesFromDataBaseUsingJdbc(String query,int columnName)
 	{
+		String data = null;
 		try {
-			List<String>li=new ArrayList<>();
-			Class.forName("com.mysql.jdbc.Driver");
+			
+			Class.forName("com.mysql.cj.jdbc.Driver");
 			Connection con=DriverManager.getConnection(  
-					url,userName,password);   
+					Constant.dbUrl,Constant.dbUserName,Constant.dbPassword);   
 					Statement stmt=con.createStatement();
 					ResultSet rs=stmt.executeQuery(query);
 					while(rs.next())
 					{
-						String data = rs.getString(columnName);
-						li.add(data);
+					    data = rs.getString(columnName);
+					
 					}
 					con.close();
 		} catch (ClassNotFoundException e) {
@@ -137,7 +143,7 @@ public class Utils {
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}  
-	  
+		return data;  
 	}
 	
 	

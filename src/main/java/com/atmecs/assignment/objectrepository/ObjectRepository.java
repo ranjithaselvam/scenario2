@@ -29,7 +29,7 @@ public class ObjectRepository {
 		public WebElement findObject(WebDriver driver, String locatorName) {
 
 			try {
-				String[] locatorType = locatorName.split(":", 2);
+				String[] locatorType = locatorName.split(":",2);
 				switch (locatorType[0]) {
 				case "Id":
 					locator = driver.findElement(By.id(locatorType[1]));

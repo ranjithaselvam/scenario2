@@ -18,7 +18,10 @@ public class Constant {
 		public static final String homePage_file="./src/main/resources/pageobject/homepagemenu/homepage.properties";
 		public static final String merchandiseMenu_file="./src/main/resources/pageobject/merchandisemenu/menu.properties";
 		public static final String cartProductData_file="./src/main/resources/testdata/searchproduct/cartpoduct.properties";
-		public static final String testDataExcelFileName="testData.xlsx";
+		public static final String dbUrl="jdbc:mysql://localhost:3306/demo";
+		public static final String dbUserName="root";
+		public static final String dbPassword="Selv@mm@lli.63";
+		
 		
 		
 	

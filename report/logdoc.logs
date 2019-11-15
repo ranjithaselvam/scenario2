@@ -1970,3 +1970,609 @@
 2019-11-14 10:56:36 INFO  Reports:27 - user in newtohotsauces menu
 2019-11-14 10:56:37 INFO  Reports:27 - user in faq menu
 2019-11-14 10:56:37 INFO  Reports:27 - driver closed
+2019-11-15 12:13:14 INFO  Reports:27 - browser opened
+2019-11-15 12:13:17 INFO  Reports:27 - entered url
+2019-11-15 12:13:17 INFO  Reports:27 - user landed successfully
+2019-11-15 12:13:18 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 12:13:19 INFO  Reports:27 - selected men in drop down list
+2019-11-15 12:13:19 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 12:13:21 INFO  Reports:27 - selected red colour
+2019-11-15 12:13:21 INFO  Reports:27 - selected middle size
+2019-11-15 12:13:22 INFO  Reports:27 - entered user name
+2019-11-15 12:13:25 INFO  Reports:27 - navigated to cart
+2019-11-15 12:16:27 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Men's) Actual :   1 item
+2019-11-15 12:16:27 INFO  Reports:27 -  Failed :  Expected : Shirt Size: M Actual :   1 item
+2019-11-15 12:16:27 INFO  Reports:27 -  Failed :  Expected : Shirt Color: Red Actual :   1 item
+2019-11-15 12:16:27 INFO  Reports:27 -  Failed :  Expected : Personalized Name: ranjitha Actual :   1 item
+2019-11-15 12:16:27 INFO  Reports:27 -  Failed :  Expected : $14.99 Actual :   1 item
+2019-11-15 12:16:27 INFO  Reports:27 -  Failed :  Expected : $14.99 Actual :   1 item
+2019-11-15 12:16:27 INFO  Reports:27 - verified product
+2019-11-15 12:16:58 INFO  Reports:27 - increased quantity
+2019-11-15 12:16:58 INFO  Reports:27 - updated increased quantity
+2019-11-15 12:16:59 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 12:17:00 INFO  Reports:27 - user in home menu
+2019-11-15 12:17:00 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 12:17:00 INFO  Reports:27 - user in merchandise menu
+2019-11-15 12:17:01 INFO  Reports:27 - user in clearence menu
+2019-11-15 12:17:01 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 12:17:02 INFO  Reports:27 - user in faq menu
+2019-11-15 12:17:02 INFO  Reports:27 - driver closed
+2019-11-15 12:17:45 INFO  Reports:27 - browser opened
+2019-11-15 12:17:46 INFO  Reports:27 - entered url
+2019-11-15 12:17:47 INFO  Reports:27 - user landed successfully
+2019-11-15 12:17:47 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 12:17:48 INFO  Reports:27 - selected men in drop down list
+2019-11-15 12:17:49 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 12:17:50 INFO  Reports:27 - selected red colour
+2019-11-15 12:17:50 INFO  Reports:27 - selected middle size
+2019-11-15 12:17:51 INFO  Reports:27 - entered user name
+2019-11-15 12:17:54 INFO  Reports:27 - navigated to cart
+2019-11-15 12:19:25 INFO  Reports:27 - browser opened
+2019-11-15 12:19:26 INFO  Reports:27 - entered url
+2019-11-15 12:19:26 INFO  Reports:27 - user landed successfully
+2019-11-15 12:19:27 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 12:19:28 INFO  Reports:27 - selected men in drop down list
+2019-11-15 12:19:28 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 12:19:30 INFO  Reports:27 - selected red colour
+2019-11-15 12:19:30 INFO  Reports:27 - selected middle size
+2019-11-15 12:19:31 INFO  Reports:27 - entered user name
+2019-11-15 12:19:33 INFO  Reports:27 - navigated to cart
+2019-11-15 12:19:35 INFO  Reports:27 -  Passed :  Expected : Hawt Like a Habanero Shirt (Men's) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-15 12:19:35 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-15 12:19:35 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-15 12:19:35 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-15 12:19:35 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 12:19:35 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 12:19:35 INFO  Reports:27 - verified product
+2019-11-15 12:19:35 INFO  Reports:27 - increased quantity
+2019-11-15 12:19:36 INFO  Reports:27 - updated increased quantity
+2019-11-15 12:19:36 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 12:19:37 INFO  Reports:27 - user in home menu
+2019-11-15 12:19:38 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 12:19:38 INFO  Reports:27 - user in merchandise menu
+2019-11-15 12:19:38 INFO  Reports:27 - user in clearence menu
+2019-11-15 12:19:39 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 12:19:39 INFO  Reports:27 - user in faq menu
+2019-11-15 12:19:39 INFO  Reports:27 - driver closed
+2019-11-15 12:21:18 INFO  Reports:27 - browser opened
+2019-11-15 12:21:23 INFO  Reports:27 - entered url
+2019-11-15 12:21:23 INFO  Reports:27 - user landed successfully
+2019-11-15 12:21:24 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 12:21:25 INFO  Reports:27 - selected men in drop down list
+2019-11-15 12:21:25 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 12:21:26 INFO  Reports:27 - selected red colour
+2019-11-15 12:21:27 INFO  Reports:27 - selected middle size
+2019-11-15 12:21:27 INFO  Reports:27 - entered user name
+2019-11-15 12:21:30 INFO  Reports:27 - navigated to cart
+2019-11-15 12:27:44 INFO  Reports:27 - browser opened
+2019-11-15 12:27:45 INFO  Reports:27 - entered url
+2019-11-15 12:27:45 INFO  Reports:27 - user landed successfully
+2019-11-15 12:27:45 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 12:27:47 INFO  Reports:27 - selected men in drop down list
+2019-11-15 12:27:47 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 12:27:48 INFO  Reports:27 - selected red colour
+2019-11-15 12:27:49 INFO  Reports:27 - selected middle size
+2019-11-15 12:27:49 INFO  Reports:27 - entered user name
+2019-11-15 12:27:52 INFO  Reports:27 - navigated to cart
+2019-11-15 12:27:53 INFO  Reports:27 -  Passed :  Expected : Hawt Like a Habanero Shirt (Men's) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-15 12:27:53 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-15 12:27:53 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-15 12:27:53 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-15 12:27:53 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 12:27:53 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 12:27:53 INFO  Reports:27 - verified product
+2019-11-15 12:27:54 INFO  Reports:27 - increased quantity
+2019-11-15 12:27:55 INFO  Reports:27 - updated increased quantity
+2019-11-15 12:27:55 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 12:27:55 INFO  Reports:27 - user in home menu
+2019-11-15 12:27:56 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 12:27:56 INFO  Reports:27 - user in merchandise menu
+2019-11-15 12:27:56 INFO  Reports:27 - user in clearence menu
+2019-11-15 12:27:57 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 12:27:57 INFO  Reports:27 - user in faq menu
+2019-11-15 12:27:57 INFO  Reports:27 - driver closed
+2019-11-15 12:31:36 INFO  Reports:27 - browser opened
+2019-11-15 12:31:37 INFO  Reports:27 - entered url
+2019-11-15 12:31:38 INFO  Reports:27 - user landed successfully
+2019-11-15 12:31:38 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 12:31:39 INFO  Reports:27 - selected men in drop down list
+2019-11-15 12:31:40 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 12:31:41 INFO  Reports:27 - selected red colour
+2019-11-15 12:31:41 INFO  Reports:27 - selected middle size
+2019-11-15 12:31:42 INFO  Reports:27 - entered user name
+2019-11-15 12:31:44 INFO  Reports:27 - navigated to cart
+2019-11-15 12:31:46 INFO  Reports:27 -  Passed :  Expected : Hawt Like a Habanero Shirt (Men's) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-15 12:31:46 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-15 12:31:46 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-15 12:31:46 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-15 12:31:46 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 12:31:46 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 12:31:46 INFO  Reports:27 - verified product
+2019-11-15 12:31:46 INFO  Reports:27 - increased quantity
+2019-11-15 12:31:47 INFO  Reports:27 - updated increased quantity
+2019-11-15 12:31:47 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 12:31:48 INFO  Reports:27 - user in home menu
+2019-11-15 12:31:48 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 12:31:49 INFO  Reports:27 - user in merchandise menu
+2019-11-15 12:31:49 INFO  Reports:27 - user in clearence menu
+2019-11-15 12:31:50 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 12:31:50 INFO  Reports:27 - user in faq menu
+2019-11-15 12:31:50 INFO  Reports:27 - driver closed
+2019-11-15 12:36:16 INFO  Reports:27 - browser opened
+2019-11-15 12:36:17 INFO  Reports:27 - entered url
+2019-11-15 12:36:18 INFO  Reports:27 - user landed successfully
+2019-11-15 12:36:18 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 12:36:19 INFO  Reports:27 - selected men in drop down list
+2019-11-15 12:36:19 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 12:36:21 INFO  Reports:27 - selected red colour
+2019-11-15 12:36:21 INFO  Reports:27 - selected middle size
+2019-11-15 12:36:22 INFO  Reports:27 - entered user name
+2019-11-15 12:36:25 INFO  Reports:27 - navigated to cart
+2019-11-15 12:39:28 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Men's) Actual :   1 item
+2019-11-15 12:39:28 INFO  Reports:27 -  Failed :  Expected : Shirt Size: M Actual :   1 item
+2019-11-15 12:39:28 INFO  Reports:27 -  Failed :  Expected : Shirt Color: Red Actual :   1 item
+2019-11-15 12:39:28 INFO  Reports:27 -  Failed :  Expected : Personalized Name: ranjitha Actual :   1 item
+2019-11-15 12:39:28 INFO  Reports:27 -  Failed :  Expected : $14.99 Actual :   1 item
+2019-11-15 12:39:28 INFO  Reports:27 -  Failed :  Expected : $14.99 Actual :   1 item
+2019-11-15 12:39:28 INFO  Reports:27 - verified product
+2019-11-15 13:13:16 INFO  Reports:27 - browser opened
+2019-11-15 13:13:16 INFO  Reports:27 - entered url
+2019-11-15 13:13:17 INFO  Reports:27 - user landed successfully
+2019-11-15 13:13:17 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 13:13:18 INFO  Reports:27 - selected men in drop down list
+2019-11-15 13:13:19 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 13:13:20 INFO  Reports:27 - selected red colour
+2019-11-15 13:13:20 INFO  Reports:27 - selected middle size
+2019-11-15 13:13:21 INFO  Reports:27 - entered user name
+2019-11-15 13:13:23 INFO  Reports:27 - navigated to cart
+2019-11-15 13:13:25 INFO  Reports:27 -  Passed :  Expected : Hawt Like a Habanero Shirt (Men's) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-15 13:13:25 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-15 13:13:25 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-15 13:13:25 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-15 13:13:25 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 13:13:25 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 13:13:25 INFO  Reports:27 - verified product
+2019-11-15 13:13:25 INFO  Reports:27 - increased quantity
+2019-11-15 13:13:26 INFO  Reports:27 - updated increased quantity
+2019-11-15 13:13:26 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 13:13:27 INFO  Reports:27 - user in home menu
+2019-11-15 13:13:27 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 13:13:28 INFO  Reports:27 - user in merchandise menu
+2019-11-15 13:13:28 INFO  Reports:27 - user in clearence menu
+2019-11-15 13:13:28 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 13:13:29 INFO  Reports:27 - user in faq menu
+2019-11-15 13:13:29 INFO  Reports:27 - driver closed
+2019-11-15 13:18:25 INFO  Reports:27 - browser opened
+2019-11-15 13:18:26 INFO  Reports:27 - entered url
+2019-11-15 13:18:26 INFO  Reports:27 - user landed successfully
+2019-11-15 13:18:26 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 13:18:28 INFO  Reports:27 - selected men in drop down list
+2019-11-15 13:18:28 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 13:18:29 INFO  Reports:27 - selected red colour
+2019-11-15 13:18:30 INFO  Reports:27 - selected middle size
+2019-11-15 13:18:30 INFO  Reports:27 - entered user name
+2019-11-15 13:18:33 INFO  Reports:27 - navigated to cart
+2019-11-15 13:18:34 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-15 13:18:35 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-15 13:18:35 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-15 13:18:35 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-15 13:18:35 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 13:18:35 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 13:18:35 INFO  Reports:27 - verified product
+2019-11-15 13:18:35 INFO  Reports:27 - increased quantity
+2019-11-15 13:18:36 INFO  Reports:27 - updated increased quantity
+2019-11-15 13:18:36 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 13:18:37 INFO  Reports:27 - user in home menu
+2019-11-15 13:18:37 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 13:18:37 INFO  Reports:27 - user in merchandise menu
+2019-11-15 13:18:38 INFO  Reports:27 - user in clearence menu
+2019-11-15 13:18:38 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 13:18:39 INFO  Reports:27 - user in faq menu
+2019-11-15 13:18:39 INFO  Reports:27 - driver closed
+2019-11-15 14:42:12 INFO  Reports:27 - browser opened
+2019-11-15 14:42:18 INFO  Reports:27 - entered url
+2019-11-15 14:42:18 INFO  Reports:27 - user landed successfully
+2019-11-15 14:42:18 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 14:42:19 INFO  Reports:27 - selected men in drop down list
+2019-11-15 14:42:19 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 14:42:21 INFO  Reports:27 - selected red colour
+2019-11-15 14:42:21 INFO  Reports:27 - selected middle size
+2019-11-15 14:42:22 INFO  Reports:27 - entered user name
+2019-11-15 14:42:25 INFO  Reports:27 - navigated to cart
+2019-11-15 14:42:26 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-15 14:42:26 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-15 14:42:26 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-15 14:42:26 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-15 14:42:26 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 14:42:27 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 14:42:27 INFO  Reports:27 - verified product
+2019-11-15 14:42:27 INFO  Reports:27 - increased quantity
+2019-11-15 14:42:28 INFO  Reports:27 - updated increased quantity
+2019-11-15 14:42:28 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 14:42:29 INFO  Reports:27 - user in home menu
+2019-11-15 14:42:29 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 14:42:30 INFO  Reports:27 - user in merchandise menu
+2019-11-15 14:42:30 INFO  Reports:27 - user in clearence menu
+2019-11-15 14:42:30 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 14:42:31 INFO  Reports:27 - user in faq menu
+2019-11-15 14:42:31 INFO  Reports:27 - driver closed
+2019-11-15 14:52:44 INFO  Reports:27 - browser opened
+2019-11-15 14:54:51 INFO  Reports:27 - browser opened
+2019-11-15 14:55:43 INFO  Reports:27 - entered url
+2019-11-15 14:55:43 INFO  Reports:27 - user landed successfully
+2019-11-15 14:55:43 INFO  Reports:27 - driver closed
+2019-11-15 14:55:45 INFO  Reports:27 - entered url
+2019-11-15 14:55:45 INFO  Reports:27 - user landed successfully
+2019-11-15 14:55:45 INFO  Reports:27 - driver closed
+2019-11-15 14:56:39 INFO  Reports:27 - browser opened
+2019-11-15 14:57:30 INFO  Reports:27 - entered url
+2019-11-15 14:57:30 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 14:57:31 INFO  Reports:27 - driver closed
+2019-11-15 14:57:46 INFO  Reports:27 - browser opened
+2019-11-15 14:58:46 INFO  Reports:27 - entered url
+2019-11-15 14:58:46 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 14:58:47 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 14:59:54 INFO  Reports:27 - selected men in drop down list
+2019-11-15 14:59:54 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 14:59:55 INFO  Reports:27 - selected red colour
+2019-11-15 14:59:56 INFO  Reports:27 - selected middle size
+2019-11-15 14:59:56 INFO  Reports:27 - entered user name
+2019-11-15 14:59:57 INFO  Reports:27 - navigated to cart
+2019-11-15 15:00:28 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual :   1 item
+2019-11-15 15:00:28 INFO  Reports:27 - Validated product name
+2019-11-15 15:00:59 INFO  Reports:27 -  Failed :  Expected : Shirt Size: M Actual :   1 item
+2019-11-15 15:00:59 INFO  Reports:27 - Validated product size
+2019-11-15 15:01:29 INFO  Reports:27 -  Failed :  Expected : Shirt Color: Red Actual :   1 item
+2019-11-15 15:01:29 INFO  Reports:27 - Validated product colour
+2019-11-15 15:02:00 INFO  Reports:27 -  Failed :  Expected : Personalized Name: ranjitha Actual :   1 item
+2019-11-15 15:02:00 INFO  Reports:27 - Validated user name
+2019-11-15 15:02:31 INFO  Reports:27 -  Failed :  Expected : $14.99 Actual :   1 item
+2019-11-15 15:02:31 INFO  Reports:27 - Validated product price
+2019-11-15 15:03:01 INFO  Reports:27 - driver closed
+2019-11-15 15:03:02 INFO  Reports:27 - browser opened
+2019-11-15 15:03:42 INFO  Reports:27 - entered url
+2019-11-15 15:03:42 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 15:03:43 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 15:03:43 INFO  Reports:27 - selected men in drop down list
+2019-11-15 15:04:14 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 15:04:45 INFO  Reports:27 - selected red colour
+2019-11-15 15:05:12 INFO  Reports:27 - browser opened
+2019-11-15 15:05:15 INFO  Reports:27 - selected middle size
+2019-11-15 15:05:37 INFO  Reports:27 - entered url
+2019-11-15 15:05:37 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 15:05:37 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 15:05:37 INFO  Reports:27 - selected men in drop down list
+2019-11-15 15:05:45 INFO  Reports:27 - entered user name
+2019-11-15 15:06:08 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 15:06:34 INFO  Reports:27 - selected red colour
+2019-11-15 15:06:34 INFO  Reports:27 - selected middle size
+2019-11-15 15:06:34 INFO  Reports:27 - entered user name
+2019-11-15 15:06:46 INFO  Reports:27 - navigated to cart
+2019-11-15 15:07:17 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual :   1 item
+2019-11-15 15:07:17 INFO  Reports:27 - Validated product name
+2019-11-15 15:07:35 INFO  Reports:27 - navigated to cart
+2019-11-15 15:07:36 INFO  Reports:27 - browser opened
+2019-11-15 15:07:48 INFO  Reports:27 -  Failed :  Expected : Shirt Size: M Actual :   1 item
+2019-11-15 15:07:48 INFO  Reports:27 - Validated product size
+2019-11-15 15:08:07 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual :   1 item
+2019-11-15 15:08:07 INFO  Reports:27 - Validated product name
+2019-11-15 15:08:18 INFO  Reports:27 -  Failed :  Expected : Shirt Color: Red Actual :   1 item
+2019-11-15 15:08:18 INFO  Reports:27 - Validated product colour
+2019-11-15 15:08:36 INFO  Reports:27 - entered url
+2019-11-15 15:08:36 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 15:08:36 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 15:08:38 INFO  Reports:27 -  Failed :  Expected : Shirt Size: M Actual :   1 item
+2019-11-15 15:08:38 INFO  Reports:27 - Validated product size
+2019-11-15 15:08:41 INFO  Reports:27 - selected men in drop down list
+2019-11-15 15:08:41 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 15:08:43 INFO  Reports:27 - selected red colour
+2019-11-15 15:08:43 INFO  Reports:27 - selected middle size
+2019-11-15 15:08:44 INFO  Reports:27 - entered user name
+2019-11-15 15:08:45 INFO  Reports:27 - navigated to cart
+2019-11-15 15:08:49 INFO  Reports:27 -  Failed :  Expected : Personalized Name: ranjitha Actual :   1 item
+2019-11-15 15:08:49 INFO  Reports:27 - Validated user name
+2019-11-15 15:08:49 INFO  Reports:27 -  Failed :  Expected : $14.99 Actual : $4.99
+2019-11-15 15:08:49 INFO  Reports:27 - Validated product price
+2019-11-15 15:08:49 INFO  Reports:27 -  Failed :  Expected : $14.99 Actual : $4.99
+2019-11-15 15:08:49 INFO  Reports:27 - Validated product grand total
+2019-11-15 15:08:49 INFO  Reports:27 - verified product details
+2019-11-15 15:08:50 INFO  Reports:27 - increased quantity
+2019-11-15 15:08:51 INFO  Reports:27 - updated increased quantity
+2019-11-15 15:08:51 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $4.99
+2019-11-15 15:08:52 INFO  Reports:27 - user in home menu
+2019-11-15 15:08:52 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 15:08:53 INFO  Reports:27 - user in merchandise menu
+2019-11-15 15:08:53 INFO  Reports:27 - user in clearence menu
+2019-11-15 15:08:54 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 15:08:54 INFO  Reports:27 - user in faq menu
+2019-11-15 15:08:54 INFO  Reports:27 - driver closed
+2019-11-15 15:09:08 INFO  Reports:27 -  Failed :  Expected : Shirt Color: Red Actual :   1 item
+2019-11-15 15:09:08 INFO  Reports:27 - Validated product colour
+2019-11-15 15:09:17 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual :   1 item
+2019-11-15 15:09:17 INFO  Reports:27 - Validated product name
+2019-11-15 15:09:39 INFO  Reports:27 -  Failed :  Expected : Personalized Name: ranjitha Actual :   1 item
+2019-11-15 15:09:39 INFO  Reports:27 - Validated user name
+2019-11-15 15:09:47 INFO  Reports:27 -  Failed :  Expected : Shirt Size: M Actual :   1 item
+2019-11-15 15:09:47 INFO  Reports:27 - Validated product size
+2019-11-15 15:10:09 INFO  Reports:27 -  Failed :  Expected : $14.99 Actual :   1 item
+2019-11-15 15:10:09 INFO  Reports:27 - Validated product price
+2019-11-15 15:10:18 INFO  Reports:27 -  Failed :  Expected : Shirt Color: Red Actual :   1 item
+2019-11-15 15:10:18 INFO  Reports:27 - Validated product colour
+2019-11-15 15:10:40 INFO  Reports:27 -  Failed :  Expected : $14.99 Actual :   1 item
+2019-11-15 15:10:40 INFO  Reports:27 - Validated product grand total
+2019-11-15 15:10:40 INFO  Reports:27 - verified product details
+2019-11-15 15:11:11 INFO  Reports:27 - increased quantity
+2019-11-15 15:11:17 INFO  Reports:27 - updated increased quantity
+2019-11-15 15:11:18 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $4.99
+2019-11-15 15:14:32 INFO  Reports:27 - browser opened
+2019-11-15 15:14:35 INFO  Reports:27 - entered url
+2019-11-15 15:14:35 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 15:14:36 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 15:14:51 INFO  Reports:27 - selected men in drop down list
+2019-11-15 15:14:51 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 15:14:53 INFO  Reports:27 - selected red colour
+2019-11-15 15:14:54 INFO  Reports:27 - selected middle size
+2019-11-15 15:14:55 INFO  Reports:27 - entered user name
+2019-11-15 15:14:56 INFO  Reports:27 - navigated to cart
+2019-11-15 15:15:16 INFO  Reports:27 - increased quantity
+2019-11-15 15:15:16 INFO  Reports:27 - updated increased quantity
+2019-11-15 15:15:17 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 15:15:17 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-15 15:15:17 INFO  Reports:27 - Validated product name
+2019-11-15 15:15:17 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-15 15:15:17 INFO  Reports:27 - Validated product size
+2019-11-15 15:15:17 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-15 15:15:17 INFO  Reports:27 - Validated product colour
+2019-11-15 15:15:17 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-15 15:15:17 INFO  Reports:27 - Validated user name
+2019-11-15 15:15:17 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 15:15:17 INFO  Reports:27 - Validated product price
+2019-11-15 15:15:17 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 15:15:17 INFO  Reports:27 - Validated product grand total
+2019-11-15 15:15:17 INFO  Reports:27 - verified product details
+2019-11-15 15:15:18 INFO  Reports:27 - user in home menu
+2019-11-15 15:15:18 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 15:15:19 INFO  Reports:27 - user in merchandise menu
+2019-11-15 15:15:19 INFO  Reports:27 - user in clearence menu
+2019-11-15 15:15:20 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 15:15:20 INFO  Reports:27 - user in faq menu
+2019-11-15 15:15:20 INFO  Reports:27 - driver closed
+2019-11-15 15:17:09 INFO  Reports:27 - browser opened
+2019-11-15 15:18:35 INFO  Reports:27 - entered url
+2019-11-15 15:18:35 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 15:18:35 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 15:18:36 INFO  Reports:27 - selected men in drop down list
+2019-11-15 15:19:06 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 15:19:44 INFO  Reports:27 - selected red colour
+2019-11-15 15:39:20 INFO  Reports:27 - browser opened
+2019-11-15 15:40:25 INFO  Reports:27 - entered url
+2019-11-15 15:40:25 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 15:40:26 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 15:40:26 INFO  Reports:27 - selected men in drop down list
+2019-11-15 15:40:56 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 15:41:27 INFO  Reports:27 - selected red colour
+2019-11-15 15:41:58 INFO  Reports:27 - selected middle size
+2019-11-15 15:42:28 INFO  Reports:27 - entered user name
+2019-11-15 15:45:08 INFO  Reports:27 - browser opened
+2019-11-15 15:45:18 INFO  Reports:27 - entered url
+2019-11-15 15:45:18 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 15:45:18 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 15:45:34 INFO  Reports:27 - selected men in drop down list
+2019-11-15 15:45:34 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 15:45:35 INFO  Reports:27 - selected red colour
+2019-11-15 15:45:36 INFO  Reports:27 - selected middle size
+2019-11-15 15:45:36 INFO  Reports:27 - entered user name
+2019-11-15 15:45:37 INFO  Reports:27 - navigated to cart
+2019-11-15 15:59:03 INFO  Reports:27 - browser opened
+2019-11-15 15:59:04 INFO  Reports:27 - entered url
+2019-11-15 15:59:04 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 15:59:04 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 15:59:06 INFO  Reports:27 - selected men in drop down list
+2019-11-15 15:59:06 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 15:59:07 INFO  Reports:27 - selected red colour
+2019-11-15 15:59:08 INFO  Reports:27 - selected middle size
+2019-11-15 15:59:08 INFO  Reports:27 - entered user name
+2019-11-15 15:59:09 INFO  Reports:27 - navigated to cart
+2019-11-15 15:59:10 INFO  Reports:27 - driver closed
+2019-11-15 16:02:53 INFO  Reports:27 - browser opened
+2019-11-15 16:02:54 INFO  Reports:27 - entered url
+2019-11-15 16:02:54 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 16:02:55 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 16:02:56 INFO  Reports:27 - selected men in drop down list
+2019-11-15 16:02:56 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 16:02:57 INFO  Reports:27 - selected red colour
+2019-11-15 16:02:58 INFO  Reports:27 - selected middle size
+2019-11-15 16:02:58 INFO  Reports:27 - entered user name
+2019-11-15 16:02:59 INFO  Reports:27 - navigated to cart
+2019-11-15 16:03:02 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-15 16:03:02 INFO  Reports:27 - Validated product name
+2019-11-15 16:03:02 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-15 16:03:02 INFO  Reports:27 - Validated product size
+2019-11-15 16:03:02 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-15 16:03:02 INFO  Reports:27 - Validated product colour
+2019-11-15 16:03:02 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-15 16:03:02 INFO  Reports:27 - Validated user name
+2019-11-15 16:03:02 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 16:03:02 INFO  Reports:27 - Validated product price
+2019-11-15 16:03:02 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 16:03:02 INFO  Reports:27 - Validated product grand total
+2019-11-15 16:03:02 INFO  Reports:27 - verified product details
+2019-11-15 16:03:02 INFO  Reports:27 - increased quantity
+2019-11-15 16:03:03 INFO  Reports:27 - updated increased quantity
+2019-11-15 16:03:03 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 16:03:04 INFO  Reports:27 - user in home menu
+2019-11-15 16:03:04 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 16:03:05 INFO  Reports:27 - user in merchandise menu
+2019-11-15 16:03:05 INFO  Reports:27 - user in clearence menu
+2019-11-15 16:03:05 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 16:03:06 INFO  Reports:27 - user in faq menu
+2019-11-15 16:03:06 INFO  Reports:27 - driver closed
+2019-11-15 16:10:40 INFO  Reports:27 - browser opened
+2019-11-15 16:10:41 INFO  Reports:27 - entered url
+2019-11-15 16:10:41 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 16:10:41 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 16:10:42 INFO  Reports:27 - selected men in drop down list
+2019-11-15 16:10:43 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 16:10:44 INFO  Reports:27 - selected red colour
+2019-11-15 16:10:44 INFO  Reports:27 - selected middle size
+2019-11-15 16:10:45 INFO  Reports:27 - entered user name
+2019-11-15 16:10:45 INFO  Reports:27 - navigated to cart
+2019-11-15 16:10:48 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-15 16:10:48 INFO  Reports:27 - Validated product name
+2019-11-15 16:10:48 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-15 16:10:48 INFO  Reports:27 - Validated product size
+2019-11-15 16:10:48 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-15 16:10:48 INFO  Reports:27 - Validated product colour
+2019-11-15 16:10:48 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-15 16:10:48 INFO  Reports:27 - Validated user name
+2019-11-15 16:10:48 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 16:10:48 INFO  Reports:27 - Validated product price
+2019-11-15 16:10:48 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 16:10:48 INFO  Reports:27 - Validated product grand total
+2019-11-15 16:10:48 INFO  Reports:27 - verified product details
+2019-11-15 16:10:48 INFO  Reports:27 - increased quantity
+2019-11-15 16:10:49 INFO  Reports:27 - updated increased quantity
+2019-11-15 16:10:49 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 16:10:50 INFO  Reports:27 - user in home menu
+2019-11-15 16:10:51 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 16:10:51 INFO  Reports:27 - user in merchandise menu
+2019-11-15 16:10:51 INFO  Reports:27 - user in clearence menu
+2019-11-15 16:10:52 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 16:10:52 INFO  Reports:27 - user in faq menu
+2019-11-15 16:10:52 INFO  Reports:27 - driver closed
+2019-11-15 16:34:27 INFO  Reports:27 - browser opened
+2019-11-15 16:34:34 INFO  Reports:27 - entered url
+2019-11-15 16:34:34 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 16:35:04 INFO  Reports:27 - driver closed
+2019-11-15 19:21:53 INFO  Reports:27 - browser opened
+2019-11-15 19:21:59 INFO  Reports:27 - entered url
+2019-11-15 19:21:59 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 19:21:59 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 19:22:01 INFO  Reports:27 - selected men in drop down list
+2019-11-15 19:22:01 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 19:22:02 INFO  Reports:27 - selected red colour
+2019-11-15 19:22:03 INFO  Reports:27 - selected middle size
+2019-11-15 19:22:03 INFO  Reports:27 - entered user name
+2019-11-15 19:22:04 INFO  Reports:27 - navigated to cart
+2019-11-15 19:22:07 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-15 19:22:07 INFO  Reports:27 - Validated product name
+2019-11-15 19:22:07 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-15 19:22:07 INFO  Reports:27 - Validated product size
+2019-11-15 19:22:07 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-15 19:22:07 INFO  Reports:27 - Validated product colour
+2019-11-15 19:22:07 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-15 19:22:07 INFO  Reports:27 - Validated user name
+2019-11-15 19:22:07 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 19:22:07 INFO  Reports:27 - Validated product price
+2019-11-15 19:22:07 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 19:22:07 INFO  Reports:27 - Validated product grand total
+2019-11-15 19:22:07 INFO  Reports:27 - verified product details
+2019-11-15 19:22:07 INFO  Reports:27 - increased quantity
+2019-11-15 19:22:08 INFO  Reports:27 - updated increased quantity
+2019-11-15 19:22:08 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 19:22:09 INFO  Reports:27 - user in home menu
+2019-11-15 19:22:10 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 19:22:11 INFO  Reports:27 - user in merchandise menu
+2019-11-15 19:22:11 INFO  Reports:27 - user in clearence menu
+2019-11-15 19:22:11 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 19:22:12 INFO  Reports:27 - user in faq menu
+2019-11-15 19:22:12 INFO  Reports:27 - driver closed
+2019-11-15 19:22:35 INFO  Reports:27 - browser opened
+2019-11-15 19:22:36 INFO  Reports:27 - entered url
+2019-11-15 19:22:36 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 19:22:36 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 19:22:37 INFO  Reports:27 - selected men in drop down list
+2019-11-15 19:22:38 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 19:22:39 INFO  Reports:27 - selected red colour
+2019-11-15 19:22:39 INFO  Reports:27 - selected middle size
+2019-11-15 19:22:40 INFO  Reports:27 - entered user name
+2019-11-15 19:22:40 INFO  Reports:27 - navigated to cart
+2019-11-15 19:22:43 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-15 19:22:43 INFO  Reports:27 - Validated product name
+2019-11-15 19:22:43 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-15 19:22:43 INFO  Reports:27 - Validated product size
+2019-11-15 19:22:43 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-15 19:22:43 INFO  Reports:27 - Validated product colour
+2019-11-15 19:22:43 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-15 19:22:43 INFO  Reports:27 - Validated user name
+2019-11-15 19:22:43 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 19:22:43 INFO  Reports:27 - Validated product price
+2019-11-15 19:22:43 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 19:22:43 INFO  Reports:27 - Validated product grand total
+2019-11-15 19:22:43 INFO  Reports:27 - verified product details
+2019-11-15 19:22:43 INFO  Reports:27 - increased quantity
+2019-11-15 19:22:44 INFO  Reports:27 - updated increased quantity
+2019-11-15 19:22:45 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 19:22:45 INFO  Reports:27 - user in home menu
+2019-11-15 19:22:46 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 19:22:46 INFO  Reports:27 - user in merchandise menu
+2019-11-15 19:22:47 INFO  Reports:27 - user in clearence menu
+2019-11-15 19:22:47 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 19:22:48 INFO  Reports:27 - user in faq menu
+2019-11-15 19:22:48 INFO  Reports:27 - driver closed
+2019-11-15 19:55:16 INFO  Reports:27 - browser opened
+2019-11-15 19:55:16 INFO  Reports:27 - entered url
+2019-11-15 19:55:16 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 19:55:17 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 19:55:18 INFO  Reports:27 - selected men in drop down list
+2019-11-15 19:55:18 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 19:55:19 INFO  Reports:27 - selected red colour
+2019-11-15 19:55:20 INFO  Reports:27 - selected middle size
+2019-11-15 19:55:20 INFO  Reports:27 - entered user name
+2019-11-15 19:55:21 INFO  Reports:27 - navigated to cart
+2019-11-15 19:55:23 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-15 19:55:23 INFO  Reports:27 - Validated product name
+2019-11-15 19:55:23 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-15 19:55:23 INFO  Reports:27 - Validated product size
+2019-11-15 19:55:23 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-15 19:55:23 INFO  Reports:27 - Validated product colour
+2019-11-15 19:55:23 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-15 19:55:23 INFO  Reports:27 - Validated user name
+2019-11-15 19:55:23 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 19:55:23 INFO  Reports:27 - Validated product price
+2019-11-15 19:55:23 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 19:55:23 INFO  Reports:27 - Validated product grand total
+2019-11-15 19:55:23 INFO  Reports:27 - verified product details
+2019-11-15 19:55:24 INFO  Reports:27 - increased quantity
+2019-11-15 19:55:24 INFO  Reports:27 - updated increased quantity
+2019-11-15 19:55:25 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 19:55:26 INFO  Reports:27 - user in home menu
+2019-11-15 19:55:26 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 19:55:27 INFO  Reports:27 - user in merchandise menu
+2019-11-15 19:55:27 INFO  Reports:27 - user in clearence menu
+2019-11-15 19:55:28 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 19:55:28 INFO  Reports:27 - user in faq menu
+2019-11-15 19:55:29 INFO  Reports:27 - driver closed
+2019-11-15 19:57:25 INFO  Reports:27 - browser opened
+2019-11-15 19:57:26 INFO  Reports:27 - entered url
+2019-11-15 19:57:26 INFO  Reports:27 - user landed successfully in home page
+2019-11-15 19:57:26 INFO  Reports:27 - moved to merchandise menu
+2019-11-15 19:57:27 INFO  Reports:27 - selected men in drop down list
+2019-11-15 19:57:27 INFO  Reports:27 - viewing mens is displayed
+2019-11-15 19:57:29 INFO  Reports:27 - selected red colour
+2019-11-15 19:57:29 INFO  Reports:27 - selected middle size
+2019-11-15 19:57:30 INFO  Reports:27 - entered user name
+2019-11-15 19:57:30 INFO  Reports:27 - navigated to cart
+2019-11-15 19:57:32 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-15 19:57:32 INFO  Reports:27 - Validated product name
+2019-11-15 19:57:32 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-15 19:57:32 INFO  Reports:27 - Validated product size
+2019-11-15 19:57:32 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-15 19:57:32 INFO  Reports:27 - Validated product colour
+2019-11-15 19:57:32 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-15 19:57:32 INFO  Reports:27 - Validated user name
+2019-11-15 19:57:32 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 19:57:32 INFO  Reports:27 - Validated product price
+2019-11-15 19:57:32 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-15 19:57:32 INFO  Reports:27 - Validated product grand total
+2019-11-15 19:57:32 INFO  Reports:27 - verified product details
+2019-11-15 19:57:33 INFO  Reports:27 - increased quantity
+2019-11-15 19:57:34 INFO  Reports:27 - updated increased quantity
+2019-11-15 19:57:34 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-15 19:57:35 INFO  Reports:27 - user in home menu
+2019-11-15 19:57:35 INFO  Reports:27 - user in hotsauces menu
+2019-11-15 19:57:36 INFO  Reports:27 - user in merchandise menu
+2019-11-15 19:57:36 INFO  Reports:27 - user in clearence menu
+2019-11-15 19:57:36 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-15 19:57:37 INFO  Reports:27 - user in faq menu
+2019-11-15 19:57:37 INFO  Reports:27 - driver closed

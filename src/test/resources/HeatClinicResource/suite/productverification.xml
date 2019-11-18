@@ -3,7 +3,7 @@
 <suite name="Automateheatclinic">
   <test  name="productverification">
     <classes>
-      <class name="com.atmecs.assignment.testscript.TestScript"/>
+      <class name="com.atmecs.heatclinic.testscript.HeatClinic"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

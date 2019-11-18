@@ -24,9 +24,9 @@ public class Base {
 	 * 
 	 */
 
-	public void getBrowser() {
+	public void getBrowser(String browserType) {
 		try {
-			String browserType = utils.propertyRead(Constant.config_file, "browserName");
+			//String browserType = utils.propertyRead(Constant.config_file, "browserName");
 			if (browserType.equalsIgnoreCase("chrome")) {
 				System.setProperty("webdriver.chrome.driver", Constant.chrome_file);
 				driver = new ChromeDriver();
@@ -50,9 +50,9 @@ public class Base {
 	 * Get url from property file.
 	 * 
 	 */
-	public void getUrl() {
+	public void getUrl(String url) {
 		try {
-			String url = utils.propertyRead(Constant.config_file, "url");
+			//String url = utils.propertyRead(Constant.config_file, "url");
 			driver.get(url);
 		} catch (Exception e) {
 			e.printStackTrace();

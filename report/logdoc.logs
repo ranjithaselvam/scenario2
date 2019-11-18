@@ -2576,3 +2576,889 @@
 2019-11-15 19:57:36 INFO  Reports:27 - user in newtohotsauces menu
 2019-11-15 19:57:37 INFO  Reports:27 - user in faq menu
 2019-11-15 19:57:37 INFO  Reports:27 - driver closed
+2019-11-17 11:28:17 INFO  Reports:27 - browser opened
+2019-11-17 11:28:17 INFO  Reports:27 - entered url
+2019-11-17 11:28:17 INFO  Reports:27 - user landed successfully in home page
+2019-11-17 11:28:48 INFO  Reports:27 - driver closed
+2019-11-17 11:34:17 INFO  Reports:27 - browser opened
+2019-11-17 11:34:18 INFO  Reports:27 - entered url
+2019-11-17 11:34:18 INFO  Reports:27 - user landed successfully in home page
+2019-11-17 11:34:48 INFO  Reports:27 - driver closed
+2019-11-18 11:09:20 INFO  Reports:27 - browser opened
+2019-11-18 11:09:23 INFO  Reports:27 - entered url
+2019-11-18 11:09:23 INFO  Reports:27 - validated home page
+2019-11-18 11:09:26 INFO  Reports:27 - product entered
+2019-11-18 11:09:30 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 11:09:30 INFO  Reports:27 -  Passed :  Expected : $123.20 Actual : $123.20
+2019-11-18 11:09:30 INFO  Reports:27 -  Passed :  Expected : Ex Tax: $101.00 Actual : Ex Tax: $101.00
+2019-11-18 11:09:30 INFO  Reports:27 -  Passed :  Expected : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Actual : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-18 11:09:30 INFO  Reports:27 - validated product availability,price and extax
+2019-11-18 11:09:31 INFO  Reports:27 - cleared the default quantity in search box
+2019-11-18 11:09:32 INFO  Reports:27 - product added into cart
+2019-11-18 11:09:35 INFO  Reports:27 - product entered
+2019-11-18 11:09:38 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 11:09:38 INFO  Reports:27 -  Passed :  Expected : $1,202.00 Actual : $1,202.00
+2019-11-18 11:09:38 INFO  Reports:27 -  Failed :  Expected :  Ex Tax: $1,000.00 Actual : Ex Tax: $1,000.00
+2019-11-18 11:09:38 INFO  Reports:27 -  Failed :  Expected : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+
+ Actual : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-18 11:09:38 INFO  Reports:27 - validated product availability,price and extax
+2019-11-18 11:09:39 INFO  Reports:27 - cleared the default quantity in search box
+2019-11-18 11:09:40 INFO  Reports:27 - product added into cart
+2019-11-18 11:09:42 INFO  Reports:27 - added products
+2019-11-18 11:09:42 INFO  Reports:27 - products grant total
+2019-11-18 11:09:43 INFO  Reports:27 - removed one product
+2019-11-18 11:09:45 INFO  Reports:27 - verified the grand total
+2019-11-18 11:09:45 INFO  Reports:27 - driver closed
+2019-11-18 11:11:21 INFO  Reports:27 - browser opened
+2019-11-18 11:11:22 INFO  Reports:27 - entered url
+2019-11-18 11:11:22 INFO  Reports:27 - validated home page
+2019-11-18 11:11:25 INFO  Reports:27 - product entered
+2019-11-18 11:11:27 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 11:11:27 INFO  Reports:27 -  Passed :  Expected : $123.20 Actual : $123.20
+2019-11-18 11:11:28 INFO  Reports:27 -  Passed :  Expected : Ex Tax: $101.00 Actual : Ex Tax: $101.00
+2019-11-18 11:11:28 INFO  Reports:27 -  Passed :  Expected : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Actual : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-18 11:11:28 INFO  Reports:27 - validated product availability,price and extax
+2019-11-18 11:11:28 INFO  Reports:27 - cleared the default quantity in search box
+2019-11-18 11:11:30 INFO  Reports:27 - product added into cart
+2019-11-18 11:11:34 INFO  Reports:27 - product entered
+2019-11-18 11:11:37 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 11:11:37 INFO  Reports:27 -  Passed :  Expected : $1,202.00 Actual : $1,202.00
+2019-11-18 11:11:37 INFO  Reports:27 -  Failed :  Expected :  Ex Tax: $1,000.00 Actual : Ex Tax: $1,000.00
+2019-11-18 11:11:37 INFO  Reports:27 -  Failed :  Expected : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+
+ Actual : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-18 11:11:38 INFO  Reports:27 - validated product availability,price and extax
+2019-11-18 11:11:38 INFO  Reports:27 - cleared the default quantity in search box
+2019-11-18 11:11:39 INFO  Reports:27 - product added into cart
+2019-11-18 11:11:42 INFO  Reports:27 - added products
+2019-11-18 11:11:43 INFO  Reports:27 - products grant total
+2019-11-18 11:11:43 INFO  Reports:27 - removed one product
+2019-11-18 11:11:45 INFO  Reports:27 - verified the grand total
+2019-11-18 11:11:45 INFO  Reports:27 - driver closed
+2019-11-18 11:12:18 INFO  Reports:27 - browser opened
+2019-11-18 11:12:24 INFO  Reports:27 - entered url
+2019-11-18 11:12:24 INFO  Reports:27 - user landed successfully in home page
+2019-11-18 11:12:24 INFO  Reports:27 - moved to merchandise menu
+2019-11-18 11:12:25 INFO  Reports:27 - selected men in drop down list
+2019-11-18 11:12:26 INFO  Reports:27 - viewing mens is displayed
+2019-11-18 11:12:27 INFO  Reports:27 - selected red colour
+2019-11-18 11:12:28 INFO  Reports:27 - selected middle size
+2019-11-18 11:12:28 INFO  Reports:27 - entered user name
+2019-11-18 11:12:29 INFO  Reports:27 - navigated to cart
+2019-11-18 11:12:32 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 11:12:32 INFO  Reports:27 - Validated product name
+2019-11-18 11:12:32 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 11:12:32 INFO  Reports:27 - Validated product size
+2019-11-18 11:12:32 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 11:12:32 INFO  Reports:27 - Validated product colour
+2019-11-18 11:12:32 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 11:12:32 INFO  Reports:27 - Validated user name
+2019-11-18 11:12:32 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:12:32 INFO  Reports:27 - Validated product price
+2019-11-18 11:12:32 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:12:32 INFO  Reports:27 - Validated product grand total
+2019-11-18 11:12:32 INFO  Reports:27 - verified product details
+2019-11-18 11:12:33 INFO  Reports:27 - increased quantity
+2019-11-18 11:12:34 INFO  Reports:27 - updated increased quantity
+2019-11-18 11:13:04 INFO  Reports:27 - user in home menu
+2019-11-18 11:13:04 INFO  Reports:27 - user in hotsauces menu
+2019-11-18 11:13:05 INFO  Reports:27 - user in merchandise menu
+2019-11-18 11:13:05 INFO  Reports:27 - user in clearence menu
+2019-11-18 11:13:05 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-18 11:13:05 INFO  Reports:27 - user in faq menu
+2019-11-18 11:13:05 INFO  Reports:27 - driver closed
+2019-11-18 11:14:21 INFO  Reports:27 - browser opened
+2019-11-18 11:14:22 INFO  Reports:27 - entered url
+2019-11-18 11:14:22 INFO  Reports:27 - user landed successfully in home page
+2019-11-18 11:14:22 INFO  Reports:27 - moved to merchandise menu
+2019-11-18 11:14:23 INFO  Reports:27 - selected men in drop down list
+2019-11-18 11:14:23 INFO  Reports:27 - viewing mens is displayed
+2019-11-18 11:14:25 INFO  Reports:27 - selected red colour
+2019-11-18 11:14:25 INFO  Reports:27 - selected middle size
+2019-11-18 11:14:26 INFO  Reports:27 - entered user name
+2019-11-18 11:14:26 INFO  Reports:27 - navigated to cart
+2019-11-18 11:14:29 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 11:14:29 INFO  Reports:27 - Validated product name
+2019-11-18 11:14:29 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 11:14:29 INFO  Reports:27 - Validated product size
+2019-11-18 11:14:29 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 11:14:29 INFO  Reports:27 - Validated product colour
+2019-11-18 11:14:29 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 11:14:29 INFO  Reports:27 - Validated user name
+2019-11-18 11:14:29 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:14:29 INFO  Reports:27 - Validated product price
+2019-11-18 11:14:29 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:14:29 INFO  Reports:27 - Validated product grand total
+2019-11-18 11:14:29 INFO  Reports:27 - verified product details
+2019-11-18 11:14:29 INFO  Reports:27 - increased quantity
+2019-11-18 11:14:30 INFO  Reports:27 - updated increased quantity
+2019-11-18 11:14:30 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 11:15:02 INFO  Reports:27 - user in home menu
+2019-11-18 11:15:02 INFO  Reports:27 - user in hotsauces menu
+2019-11-18 11:15:02 INFO  Reports:27 - user in merchandise menu
+2019-11-18 11:15:02 INFO  Reports:27 - user in clearence menu
+2019-11-18 11:15:02 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-18 11:15:02 INFO  Reports:27 - user in faq menu
+2019-11-18 11:15:02 INFO  Reports:27 - driver closed
+2019-11-18 11:17:26 INFO  Reports:27 - browser opened
+2019-11-18 11:17:27 INFO  Reports:27 - entered url
+2019-11-18 11:17:27 INFO  Reports:27 - user landed successfully in home page
+2019-11-18 11:17:27 INFO  Reports:27 - moved to merchandise menu
+2019-11-18 11:17:28 INFO  Reports:27 - selected men in drop down list
+2019-11-18 11:17:29 INFO  Reports:27 - viewing mens is displayed
+2019-11-18 11:17:30 INFO  Reports:27 - selected red colour
+2019-11-18 11:17:30 INFO  Reports:27 - selected middle size
+2019-11-18 11:17:31 INFO  Reports:27 - entered user name
+2019-11-18 11:17:32 INFO  Reports:27 - navigated to cart
+2019-11-18 11:17:34 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 11:17:34 INFO  Reports:27 - Validated product name
+2019-11-18 11:17:34 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 11:17:34 INFO  Reports:27 - Validated product size
+2019-11-18 11:17:34 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 11:17:34 INFO  Reports:27 - Validated product colour
+2019-11-18 11:17:34 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 11:17:34 INFO  Reports:27 - Validated user name
+2019-11-18 11:17:34 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:17:34 INFO  Reports:27 - Validated product price
+2019-11-18 11:17:34 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:17:34 INFO  Reports:27 - Validated product grand total
+2019-11-18 11:17:34 INFO  Reports:27 - verified product details
+2019-11-18 11:17:35 INFO  Reports:27 - increased quantity
+2019-11-18 11:17:35 INFO  Reports:27 - updated increased quantity
+2019-11-18 11:17:35 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 11:18:06 INFO  Reports:27 - user in home menu
+2019-11-18 11:18:06 INFO  Reports:27 - user in hotsauces menu
+2019-11-18 11:18:07 INFO  Reports:27 - user in merchandise menu
+2019-11-18 11:18:07 INFO  Reports:27 - user in clearence menu
+2019-11-18 11:18:07 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-18 11:18:07 INFO  Reports:27 - user in faq menu
+2019-11-18 11:18:07 INFO  Reports:27 - driver closed
+2019-11-18 11:20:53 INFO  Reports:27 - browser opened
+2019-11-18 11:20:54 INFO  Reports:27 - entered url
+2019-11-18 11:20:54 INFO  Reports:27 - user landed successfully in home page
+2019-11-18 11:20:54 INFO  Reports:27 - moved to merchandise menu
+2019-11-18 11:20:55 INFO  Reports:27 - selected men in drop down list
+2019-11-18 11:20:55 INFO  Reports:27 - viewing mens is displayed
+2019-11-18 11:20:57 INFO  Reports:27 - selected red colour
+2019-11-18 11:20:57 INFO  Reports:27 - selected middle size
+2019-11-18 11:20:58 INFO  Reports:27 - entered user name
+2019-11-18 11:20:58 INFO  Reports:27 - navigated to cart
+2019-11-18 11:21:01 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 11:21:01 INFO  Reports:27 - Validated product name
+2019-11-18 11:21:01 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 11:21:01 INFO  Reports:27 - Validated product size
+2019-11-18 11:21:01 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 11:21:01 INFO  Reports:27 - Validated product colour
+2019-11-18 11:21:01 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 11:21:01 INFO  Reports:27 - Validated user name
+2019-11-18 11:21:01 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:21:01 INFO  Reports:27 - Validated product price
+2019-11-18 11:21:01 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:21:01 INFO  Reports:27 - Validated product grand total
+2019-11-18 11:21:01 INFO  Reports:27 - verified product details
+2019-11-18 11:21:01 INFO  Reports:27 - increased quantity
+2019-11-18 11:21:02 INFO  Reports:27 - updated increased quantity
+2019-11-18 11:21:02 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 11:21:33 INFO  Reports:27 - user in home menu
+2019-11-18 11:21:33 INFO  Reports:27 - user in hotsauces menu
+2019-11-18 11:21:34 INFO  Reports:27 - user in merchandise menu
+2019-11-18 11:21:34 INFO  Reports:27 - user in clearence menu
+2019-11-18 11:21:34 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-18 11:21:34 INFO  Reports:27 - user in faq menu
+2019-11-18 11:21:34 INFO  Reports:27 - driver closed
+2019-11-18 11:23:30 INFO  Reports:27 - browser opened
+2019-11-18 11:23:31 INFO  Reports:27 - entered url
+2019-11-18 11:23:31 INFO  Reports:27 - user landed successfully in home page
+2019-11-18 11:23:31 INFO  Reports:27 - moved to merchandise menu
+2019-11-18 11:23:32 INFO  Reports:27 - selected men in drop down list
+2019-11-18 11:23:32 INFO  Reports:27 - viewing mens is displayed
+2019-11-18 11:23:34 INFO  Reports:27 - selected red colour
+2019-11-18 11:23:34 INFO  Reports:27 - selected middle size
+2019-11-18 11:23:35 INFO  Reports:27 - entered user name
+2019-11-18 11:23:35 INFO  Reports:27 - navigated to cart
+2019-11-18 11:23:37 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 11:23:37 INFO  Reports:27 - Validated product name
+2019-11-18 11:23:37 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 11:23:37 INFO  Reports:27 - Validated product size
+2019-11-18 11:23:37 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 11:23:37 INFO  Reports:27 - Validated product colour
+2019-11-18 11:23:38 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 11:23:38 INFO  Reports:27 - Validated user name
+2019-11-18 11:23:38 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:23:38 INFO  Reports:27 - Validated product price
+2019-11-18 11:23:38 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:23:38 INFO  Reports:27 - Validated product grand total
+2019-11-18 11:23:38 INFO  Reports:27 - verified product details
+2019-11-18 11:23:38 INFO  Reports:27 - increased quantity
+2019-11-18 11:23:39 INFO  Reports:27 - updated increased quantity
+2019-11-18 11:23:39 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 11:24:10 INFO  Reports:27 - user in home menu
+2019-11-18 11:24:10 INFO  Reports:27 - user in hotsauces menu
+2019-11-18 11:24:10 INFO  Reports:27 - user in merchandise menu
+2019-11-18 11:24:10 INFO  Reports:27 - user in clearence menu
+2019-11-18 11:24:11 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-18 11:24:11 INFO  Reports:27 - user in faq menu
+2019-11-18 11:24:11 INFO  Reports:27 - driver closed
+2019-11-18 11:25:18 INFO  Reports:27 - browser opened
+2019-11-18 11:25:18 INFO  Reports:27 - entered url
+2019-11-18 11:25:18 INFO  Reports:27 - user landed successfully in home page
+2019-11-18 11:25:19 INFO  Reports:27 - moved to merchandise menu
+2019-11-18 11:25:20 INFO  Reports:27 - selected men in drop down list
+2019-11-18 11:25:20 INFO  Reports:27 - viewing mens is displayed
+2019-11-18 11:25:21 INFO  Reports:27 - selected red colour
+2019-11-18 11:25:22 INFO  Reports:27 - selected middle size
+2019-11-18 11:25:22 INFO  Reports:27 - entered user name
+2019-11-18 11:25:23 INFO  Reports:27 - navigated to cart
+2019-11-18 11:25:25 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 11:25:25 INFO  Reports:27 - Validated product name
+2019-11-18 11:25:25 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 11:25:25 INFO  Reports:27 - Validated product size
+2019-11-18 11:25:25 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 11:25:25 INFO  Reports:27 - Validated product colour
+2019-11-18 11:25:25 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 11:25:25 INFO  Reports:27 - Validated user name
+2019-11-18 11:25:25 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:25:25 INFO  Reports:27 - Validated product price
+2019-11-18 11:25:25 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:25:25 INFO  Reports:27 - Validated product grand total
+2019-11-18 11:25:25 INFO  Reports:27 - verified product details
+2019-11-18 11:25:26 INFO  Reports:27 - increased quantity
+2019-11-18 11:25:27 INFO  Reports:27 - updated increased quantity
+2019-11-18 11:25:27 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 11:25:58 INFO  Reports:27 - user in home menu
+2019-11-18 11:25:58 INFO  Reports:27 - user in hotsauces menu
+2019-11-18 11:25:58 INFO  Reports:27 - user in merchandise menu
+2019-11-18 11:25:58 INFO  Reports:27 - user in clearence menu
+2019-11-18 11:25:58 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-18 11:25:58 INFO  Reports:27 - user in faq menu
+2019-11-18 11:25:58 INFO  Reports:27 - driver closed
+2019-11-18 11:41:48 INFO  Reports:27 - browser opened
+2019-11-18 11:41:48 INFO  Reports:27 - entered url
+2019-11-18 11:41:48 INFO  Reports:27 - user landed successfully in home page
+2019-11-18 11:42:48 INFO  Reports:27 - driver closed
+2019-11-18 11:43:54 INFO  Reports:27 - browser opened
+2019-11-18 11:43:55 INFO  Reports:27 - entered url
+2019-11-18 11:43:55 INFO  Reports:27 - user landed successfully in home page
+2019-11-18 11:43:55 INFO  Reports:27 - moved to merchandise menu
+2019-11-18 11:43:56 INFO  Reports:27 - selected men in drop down list
+2019-11-18 11:43:57 INFO  Reports:27 - viewing mens is displayed
+2019-11-18 11:43:58 INFO  Reports:27 - selected red colour
+2019-11-18 11:43:59 INFO  Reports:27 - selected middle size
+2019-11-18 11:43:59 INFO  Reports:27 - entered user name
+2019-11-18 11:44:00 INFO  Reports:27 - navigated to cart
+2019-11-18 11:44:02 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 11:44:02 INFO  Reports:27 - Validated product name
+2019-11-18 11:44:02 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 11:44:02 INFO  Reports:27 - Validated product size
+2019-11-18 11:44:02 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 11:44:02 INFO  Reports:27 - Validated product colour
+2019-11-18 11:44:02 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 11:44:02 INFO  Reports:27 - Validated user name
+2019-11-18 11:44:02 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:44:02 INFO  Reports:27 - Validated product price
+2019-11-18 11:44:02 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:44:02 INFO  Reports:27 - Validated product grand total
+2019-11-18 11:44:02 INFO  Reports:27 - verified product details
+2019-11-18 11:44:02 INFO  Reports:27 - increased quantity
+2019-11-18 11:44:03 INFO  Reports:27 - updated increased quantity
+2019-11-18 11:44:03 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 11:44:34 INFO  Reports:27 - user in home menu
+2019-11-18 11:44:34 INFO  Reports:27 - user in hotsauces menu
+2019-11-18 11:44:34 INFO  Reports:27 - user in merchandise menu
+2019-11-18 11:44:35 INFO  Reports:27 - user in clearence menu
+2019-11-18 11:44:35 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-18 11:44:35 INFO  Reports:27 - user in faq menu
+2019-11-18 11:44:35 INFO  Reports:27 - driver closed
+2019-11-18 11:45:58 INFO  Reports:27 - browser opened
+2019-11-18 11:45:59 INFO  Reports:27 - entered url
+2019-11-18 11:45:59 INFO  Reports:27 - user landed successfully in home page
+2019-11-18 11:45:59 INFO  Reports:27 - moved to merchandise menu
+2019-11-18 11:46:00 INFO  Reports:27 - selected men in drop down list
+2019-11-18 11:46:00 INFO  Reports:27 - viewing mens is displayed
+2019-11-18 11:46:02 INFO  Reports:27 - selected red colour
+2019-11-18 11:46:02 INFO  Reports:27 - selected middle size
+2019-11-18 11:46:03 INFO  Reports:27 - entered user name
+2019-11-18 11:46:03 INFO  Reports:27 - navigated to cart
+2019-11-18 11:46:05 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 11:46:05 INFO  Reports:27 - Validated product name
+2019-11-18 11:46:05 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 11:46:05 INFO  Reports:27 - Validated product size
+2019-11-18 11:46:05 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 11:46:05 INFO  Reports:27 - Validated product colour
+2019-11-18 11:46:06 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 11:46:06 INFO  Reports:27 - Validated user name
+2019-11-18 11:46:06 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:46:06 INFO  Reports:27 - Validated product price
+2019-11-18 11:46:06 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:46:06 INFO  Reports:27 - Validated product grand total
+2019-11-18 11:46:06 INFO  Reports:27 - verified product details
+2019-11-18 11:46:06 INFO  Reports:27 - increased quantity
+2019-11-18 11:46:07 INFO  Reports:27 - updated increased quantity
+2019-11-18 11:46:07 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 11:46:38 INFO  Reports:27 - user in home menu
+2019-11-18 11:46:38 INFO  Reports:27 - user in hotsauces menu
+2019-11-18 11:46:39 INFO  Reports:27 - user in merchandise menu
+2019-11-18 11:46:39 INFO  Reports:27 - user in clearence menu
+2019-11-18 11:46:39 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-18 11:46:39 INFO  Reports:27 - user in faq menu
+2019-11-18 11:46:39 INFO  Reports:27 - driver closed
+2019-11-18 11:47:48 INFO  Reports:27 - browser opened
+2019-11-18 11:47:49 INFO  Reports:27 - entered url
+2019-11-18 11:47:49 INFO  Reports:27 - user landed successfully in home page
+2019-11-18 11:47:49 INFO  Reports:27 - moved to merchandise menu
+2019-11-18 11:47:50 INFO  Reports:27 - selected men in drop down list
+2019-11-18 11:47:51 INFO  Reports:27 - viewing mens is displayed
+2019-11-18 11:47:52 INFO  Reports:27 - selected red colour
+2019-11-18 11:47:52 INFO  Reports:27 - selected middle size
+2019-11-18 11:47:53 INFO  Reports:27 - entered user name
+2019-11-18 11:47:53 INFO  Reports:27 - navigated to cart
+2019-11-18 11:47:56 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 11:47:56 INFO  Reports:27 - Validated product name
+2019-11-18 11:47:56 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 11:47:56 INFO  Reports:27 - Validated product size
+2019-11-18 11:47:56 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 11:47:56 INFO  Reports:27 - Validated product colour
+2019-11-18 11:47:56 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 11:47:56 INFO  Reports:27 - Validated user name
+2019-11-18 11:47:56 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:47:56 INFO  Reports:27 - Validated product price
+2019-11-18 11:47:56 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 11:47:56 INFO  Reports:27 - Validated product grand total
+2019-11-18 11:47:56 INFO  Reports:27 - verified product details
+2019-11-18 11:47:56 INFO  Reports:27 - increased quantity
+2019-11-18 11:47:57 INFO  Reports:27 - updated increased quantity
+2019-11-18 11:47:57 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 11:48:28 INFO  Reports:27 - user in home menu
+2019-11-18 11:48:29 INFO  Reports:27 - user in hotsauces menu
+2019-11-18 11:48:29 INFO  Reports:27 - user in merchandise menu
+2019-11-18 11:48:29 INFO  Reports:27 - user in clearence menu
+2019-11-18 11:48:29 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-18 11:48:29 INFO  Reports:27 - user in faq menu
+2019-11-18 11:48:29 INFO  Reports:27 - driver closed
+2019-11-18 12:38:45 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 12:38:47 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 12:38:53 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 12:38:53 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 12:38:55 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 12:38:55 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 12:38:56 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 12:38:57 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 12:38:58 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 12:38:58 INFO  Reports:27 - Step 10:Navigate to cart and validate item (which is added  in step - 4) is added to cart.
+2019-11-18 12:39:00 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 12:39:00 INFO  Reports:27 - Validated product name
+2019-11-18 12:39:00 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 12:39:00 INFO  Reports:27 - Validated product size
+2019-11-18 12:39:00 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 12:39:00 INFO  Reports:27 - Validated product colour
+2019-11-18 12:39:00 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 12:39:00 INFO  Reports:27 - Validated user name
+2019-11-18 12:39:00 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 12:39:00 INFO  Reports:27 - Validated product price
+2019-11-18 12:39:00 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 12:39:00 INFO  Reports:27 - Validated product grand total
+2019-11-18 12:39:01 INFO  Reports:27 - verified product details
+2019-11-18 12:39:01 INFO  Reports:27 - increased quantity
+2019-11-18 12:39:02 INFO  Reports:27 - updated increased quantity
+2019-11-18 12:39:02 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 12:39:33 INFO  Reports:27 - user in home menu
+2019-11-18 12:39:33 INFO  Reports:27 - user in hotsauces menu
+2019-11-18 12:39:33 INFO  Reports:27 - user in merchandise menu
+2019-11-18 12:39:33 INFO  Reports:27 - user in clearence menu
+2019-11-18 12:39:33 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-18 12:39:33 INFO  Reports:27 - user in faq menu
+2019-11-18 12:39:33 INFO  Reports:27 - driver closed
+2019-11-18 12:48:28 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 12:48:30 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 12:48:30 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 12:48:30 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 12:48:32 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 12:48:32 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 12:48:33 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 12:48:34 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 12:48:35 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 12:48:35 INFO  Reports:27 - #Step 10:Navigate to cart and validate item (Hawt Like a Habanero Shirt (Men's) is added to cart.
+2019-11-18 12:49:49 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 12:49:52 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 12:49:53 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 12:49:53 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 12:49:54 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 12:49:55 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 12:49:55 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 12:49:56 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 12:49:56 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 12:50:39 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 12:50:42 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 12:50:43 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 12:50:43 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 12:50:45 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 12:50:45 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 12:50:45 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 12:50:47 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 12:50:47 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 12:50:48 INFO  Reports:27 - #Step 10:Navigate to cart and validate item (Hawt Like a Habanero Shirt (Men's) is added to cart.
+2019-11-18 12:50:50 INFO  Reports:27 - #Step 11:Validate product name
+2019-11-18 12:50:50 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 12:50:50 INFO  Reports:27 - #Step 12:Validate product size
+2019-11-18 12:50:50 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 12:50:50 INFO  Reports:27 - #Step 13:Validate product colour
+2019-11-18 12:50:50 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 12:50:50 INFO  Reports:27 - #Step 14:Validate user name
+2019-11-18 12:50:51 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 12:50:51 INFO  Reports:27 - #Step 15:Validate product price
+2019-11-18 12:50:51 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 12:50:51 INFO  Reports:27 - #Step 16:Validated product total price
+2019-11-18 12:50:51 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 12:50:51 INFO  Reports:27 - Step 17:Increase the Quantity and Click on the update button
+2019-11-18 12:50:52 INFO  Reports:27 - Step 18:Verify the total price is updated accordingly
+2019-11-18 12:50:52 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 12:50:57 INFO  Reports:27 - #Step 10:Navigate to cart and validate item (Hawt Like a Habanero Shirt (Men's) is added to cart.
+2019-11-18 12:50:59 INFO  Reports:27 - #Step 11:Validate product name
+2019-11-18 12:50:59 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 12:50:59 INFO  Reports:27 - #Step 12:Validate product size
+2019-11-18 12:50:59 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 12:50:59 INFO  Reports:27 - #Step 13:Validate product colour
+2019-11-18 12:50:59 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 12:50:59 INFO  Reports:27 - #Step 14:Validate user name
+2019-11-18 12:50:59 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 12:50:59 INFO  Reports:27 - #Step 15:Validate product price
+2019-11-18 12:50:59 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 12:50:59 INFO  Reports:27 - #Step 16:Validated product total price
+2019-11-18 12:50:59 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 12:50:59 INFO  Reports:27 - Step 17:Increase the Quantity and Click on the update button
+2019-11-18 12:51:01 INFO  Reports:27 - Step 18:Verify the total price is updated accordingly
+2019-11-18 12:51:01 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : 
+2019-11-18 12:51:23 INFO  Reports:27 - user in home menu
+2019-11-18 12:51:23 INFO  Reports:27 - user in hotsauces menu
+2019-11-18 12:51:23 INFO  Reports:27 - user in merchandise menu
+2019-11-18 12:51:24 INFO  Reports:27 - user in clearence menu
+2019-11-18 12:51:24 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-18 12:51:24 INFO  Reports:27 - user in faq menu
+2019-11-18 12:51:24 INFO  Reports:27 - driver closed
+2019-11-18 12:51:32 INFO  Reports:27 - user in home menu
+2019-11-18 12:51:32 INFO  Reports:27 - user in hotsauces menu
+2019-11-18 12:51:32 INFO  Reports:27 - user in merchandise menu
+2019-11-18 12:51:33 INFO  Reports:27 - user in clearence menu
+2019-11-18 12:51:33 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-18 12:51:33 INFO  Reports:27 - user in faq menu
+2019-11-18 12:51:33 INFO  Reports:27 - driver closed
+2019-11-18 12:51:38 INFO  Reports:27 - #Step 11:Validate product name
+2019-11-18 12:51:39 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual :   0 items
+2019-11-18 12:51:39 INFO  Reports:27 - #Step 12:Validate product size
+2019-11-18 12:51:39 INFO  Reports:27 -  Failed :  Expected : Shirt Size: M Actual :   0 items
+2019-11-18 12:51:39 INFO  Reports:27 - #Step 13:Validate product colour
+2019-11-18 12:51:39 INFO  Reports:27 -  Failed :  Expected : Shirt Color: Red Actual :   0 items
+2019-11-18 12:51:39 INFO  Reports:27 - #Step 14:Validate user name
+2019-11-18 12:51:39 INFO  Reports:27 -  Failed :  Expected : Personalized Name: ranjitha Actual :   0 items
+2019-11-18 12:51:39 INFO  Reports:27 - #Step 15:Validate product price
+2019-11-18 12:51:39 INFO  Reports:27 -  Failed :  Expected : $14.99 Actual :   0 items
+2019-11-18 12:51:39 INFO  Reports:27 - #Step 16:Validated product total price
+2019-11-18 12:51:39 INFO  Reports:27 -  Failed :  Expected : $14.99 Actual :   0 items
+2019-11-18 12:51:39 INFO  Reports:27 - Step 17:Increase the Quantity and Click on the update button
+2019-11-18 12:52:30 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 12:52:32 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 12:52:33 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 12:52:33 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 12:52:35 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 12:52:35 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 12:52:35 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 12:52:37 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 12:52:37 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 12:52:38 INFO  Reports:27 - #Step 10:Navigate to cart and validate item (Hawt Like a Habanero Shirt (Men's) is added to cart.
+2019-11-18 12:52:40 INFO  Reports:27 - #Step 11:Validate product name
+2019-11-18 12:52:40 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 12:52:40 INFO  Reports:27 - #Step 12:Validate product size
+2019-11-18 12:52:40 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 12:52:40 INFO  Reports:27 - #Step 13:Validate product colour
+2019-11-18 12:52:40 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 12:52:40 INFO  Reports:27 - #Step 14:Validate user name
+2019-11-18 12:52:40 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 12:52:40 INFO  Reports:27 - #Step 15:Validate product price
+2019-11-18 12:52:40 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 12:52:40 INFO  Reports:27 - #Step 16:Validated product total price
+2019-11-18 12:52:40 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 12:52:40 INFO  Reports:27 - Step 17:Increase the Quantity and Click on the update button
+2019-11-18 12:52:41 INFO  Reports:27 - Step 18:Verify the total price is updated accordingly
+2019-11-18 12:52:42 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 12:53:13 INFO  Reports:27 - user in home menu
+2019-11-18 12:53:13 INFO  Reports:27 - user in hotsauces menu
+2019-11-18 12:53:13 INFO  Reports:27 - user in merchandise menu
+2019-11-18 12:53:13 INFO  Reports:27 - user in clearence menu
+2019-11-18 12:53:13 INFO  Reports:27 - user in newtohotsauces menu
+2019-11-18 12:53:13 INFO  Reports:27 - user in faq menu
+2019-11-18 12:53:13 INFO  Reports:27 - driver closed
+2019-11-18 12:57:38 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 12:57:41 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 12:57:41 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 12:57:41 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 12:57:43 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 12:57:43 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 12:57:44 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 12:57:45 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 12:57:45 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 12:57:46 INFO  Reports:27 - #Step 10:Navigate to cart and validate item (Hawt Like a Habanero Shirt (Men's) is added to cart.
+2019-11-18 12:57:48 INFO  Reports:27 - #Step 11:Validate product name
+2019-11-18 12:57:48 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 12:57:48 INFO  Reports:27 - #Step 12:Validate product size
+2019-11-18 12:57:48 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 12:57:48 INFO  Reports:27 - #Step 13:Validate product colour
+2019-11-18 12:57:48 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 12:57:48 INFO  Reports:27 - #Step 14:Validate user name
+2019-11-18 12:57:48 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 12:57:48 INFO  Reports:27 - #Step 15:Validate product price
+2019-11-18 12:57:48 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 12:57:48 INFO  Reports:27 - #Step 16:Validated product total price
+2019-11-18 12:57:48 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 12:57:48 INFO  Reports:27 - #Step 17:Increase the Quantity and Click on the update button
+2019-11-18 12:57:49 INFO  Reports:27 - #Step 18:Verify the total price is updated accordingly
+2019-11-18 12:57:50 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 12:57:50 INFO  Reports:27 - #Step 19:Traverse through all the menus available and verify user redirected to respective pages
+2019-11-18 12:58:21 INFO  Reports:27 - driver closed
+2019-11-18 14:18:48 INFO  Reports:27 - #Step 1:Browser open
+2019-11-18 14:18:50 INFO  Reports:27 - #Step 2:Enter url
+2019-11-18 14:18:52 INFO  Reports:27 - Step 3:Validate Home page
+2019-11-18 14:18:52 INFO  Reports:27 - validated home page
+2019-11-18 14:18:53 INFO  Reports:27 - #Step 4:Search for products  iPhone (Qty: 2) & MacBook Air (Qty: 3) and add products to the cart
+2019-11-18 14:18:58 INFO  Reports:27 - #Step 5:Validate the data of each product Availability,Product Price (should be in dollar),Ex Tax and Product description
+2019-11-18 14:18:58 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 14:18:58 INFO  Reports:27 -  Passed :  Expected : $123.20 Actual : $123.20
+2019-11-18 14:18:58 INFO  Reports:27 -  Passed :  Expected : Ex Tax: $101.00 Actual : Ex Tax: $101.00
+2019-11-18 14:18:58 INFO  Reports:27 -  Passed :  Expected : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Actual : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-18 14:19:01 INFO  Reports:27 - #Step 4:Search for products  iPhone (Qty: 2) & MacBook Air (Qty: 3) and add products to the cart
+2019-11-18 14:19:06 INFO  Reports:27 - #Step 5:Validate the data of each product Availability,Product Price (should be in dollar),Ex Tax and Product description
+2019-11-18 14:19:06 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 14:19:06 INFO  Reports:27 -  Passed :  Expected : $1,202.00 Actual : $1,202.00
+2019-11-18 14:19:07 INFO  Reports:27 -  Failed :  Expected :  Ex Tax: $1,000.00 Actual : Ex Tax: $1,000.00
+2019-11-18 14:19:07 INFO  Reports:27 -  Failed :  Expected : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+
+ Actual : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-18 14:19:09 INFO  Reports:27 - Step 6:Verify all added products are available in the cart
+2019-11-18 14:19:10 ERROR Reports:39 - Step 7:Remove one product and verify the grand total
+2019-11-18 14:19:12 INFO  Reports:27 - driver closed
+2019-11-18 14:26:34 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 14:26:36 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 14:26:42 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 14:26:42 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 14:26:43 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 14:26:44 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 14:26:44 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 14:26:45 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 14:26:46 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 14:26:46 INFO  Reports:27 - #Step 10:Navigate to cart and validate item (Hawt Like a Habanero Shirt (Men's) is added to cart.
+2019-11-18 14:26:48 INFO  Reports:27 - #Step 11:Validate product name
+2019-11-18 14:26:49 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 14:26:49 INFO  Reports:27 - #Step 12:Validate product size
+2019-11-18 14:26:49 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 14:26:49 INFO  Reports:27 - #Step 13:Validate product colour
+2019-11-18 14:26:49 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 14:26:49 INFO  Reports:27 - #Step 14:Validate user name
+2019-11-18 14:26:49 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 14:26:49 INFO  Reports:27 - #Step 15:Validate product price
+2019-11-18 14:26:49 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 14:26:49 INFO  Reports:27 - #Step 16:Validated product total price
+2019-11-18 14:26:49 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 14:26:49 INFO  Reports:27 - #Step 17:Increase the Quantity and Click on the update button
+2019-11-18 14:26:50 INFO  Reports:27 - #Step 18:Verify the total price is updated accordingly
+2019-11-18 14:26:50 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 14:26:51 INFO  Reports:27 - #Step 19:Traverse through all the menus available and verify user redirected to respective pages
+2019-11-18 14:27:21 INFO  Reports:27 - Step 20:driver close
+2019-11-18 14:27:45 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 14:27:47 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 14:27:48 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 14:27:48 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 14:27:49 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 14:27:50 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 14:27:50 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 14:27:51 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 14:27:52 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 14:27:52 INFO  Reports:27 - #Step 10:Navigate to cart and validate item (Hawt Like a Habanero Shirt (Men's) is added to cart.
+2019-11-18 14:27:55 INFO  Reports:27 - #Step 11:Validate product name
+2019-11-18 14:27:55 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 14:27:55 INFO  Reports:27 - #Step 12:Validate product size
+2019-11-18 14:27:55 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 14:27:55 INFO  Reports:27 - #Step 13:Validate product colour
+2019-11-18 14:27:55 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 14:27:55 INFO  Reports:27 - #Step 14:Validate user name
+2019-11-18 14:27:55 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 14:27:55 INFO  Reports:27 - #Step 15:Validate product price
+2019-11-18 14:27:55 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 14:27:55 INFO  Reports:27 - #Step 16:Validated product total price
+2019-11-18 14:27:55 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 14:27:55 INFO  Reports:27 - #Step 17:Increase the Quantity and Click on the update button
+2019-11-18 14:27:56 INFO  Reports:27 - #Step 18:Verify the total price is updated accordingly
+2019-11-18 14:27:57 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 14:27:57 INFO  Reports:27 - #Step 19:Traverse through all the menus available and verify user redirected to respective pages
+2019-11-18 14:28:28 INFO  Reports:27 - Step 20:driver close
+2019-11-18 14:32:29 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 14:32:32 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 14:32:32 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 14:32:32 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 14:32:34 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 14:32:34 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 14:32:34 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 14:32:36 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 14:32:36 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 14:32:37 INFO  Reports:27 - #Step 10:Navigate to cart and validate item (Hawt Like a Habanero Shirt (Men's) is added to cart.
+2019-11-18 14:32:39 INFO  Reports:27 - #Step 11:Validate product name
+2019-11-18 14:32:39 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 14:32:39 INFO  Reports:27 - #Step 12:Validate product size
+2019-11-18 14:32:39 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 14:32:39 INFO  Reports:27 - #Step 13:Validate product colour
+2019-11-18 14:32:39 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 14:32:39 INFO  Reports:27 - #Step 14:Validate user name
+2019-11-18 14:32:39 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 14:32:39 INFO  Reports:27 - #Step 15:Validate product price
+2019-11-18 14:32:39 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 14:32:39 INFO  Reports:27 - #Step 16:Validated product total price
+2019-11-18 14:32:39 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 14:32:39 INFO  Reports:27 - #Step 17:Increase the Quantity and Click on the update button
+2019-11-18 14:32:40 INFO  Reports:27 - #Step 18:Verify the total price is updated accordingly
+2019-11-18 14:32:41 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 14:32:41 INFO  Reports:27 - #Step 19:Traverse through all the menus available and verify user redirected to respective pages
+2019-11-18 14:33:13 INFO  Reports:27 - Step 20:driver close
+2019-11-18 14:34:55 INFO  Reports:27 - #Step 1:Browser open
+2019-11-18 14:34:57 INFO  Reports:27 - #Step 2:Enter url
+2019-11-18 14:34:58 INFO  Reports:27 - Step 3:Validate Home page
+2019-11-18 14:34:59 INFO  Reports:27 - validated home page
+2019-11-18 14:34:59 INFO  Reports:27 - #Step 4:Search for products  iPhone (Qty: 2) & MacBook Air (Qty: 3) and add products to the cart
+2019-11-18 14:35:04 INFO  Reports:27 - #Step 5:Validate the data of each product Availability,Product Price (should be in dollar),Ex Tax and Product description
+2019-11-18 14:35:04 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 14:35:04 INFO  Reports:27 -  Passed :  Expected : $123.20 Actual : $123.20
+2019-11-18 14:35:04 INFO  Reports:27 -  Passed :  Expected : Ex Tax: $101.00 Actual : Ex Tax: $101.00
+2019-11-18 14:35:04 INFO  Reports:27 -  Passed :  Expected : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Actual : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-18 14:35:07 INFO  Reports:27 - #Step 4:Search for products  iPhone (Qty: 2) & MacBook Air (Qty: 3) and add products to the cart
+2019-11-18 14:35:10 INFO  Reports:27 - #Step 5:Validate the data of each product Availability,Product Price (should be in dollar),Ex Tax and Product description
+2019-11-18 14:35:10 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 14:35:10 INFO  Reports:27 -  Passed :  Expected : $1,202.00 Actual : $1,202.00
+2019-11-18 14:35:11 INFO  Reports:27 -  Failed :  Expected :  Ex Tax: $1,000.00 Actual : Ex Tax: $1,000.00
+2019-11-18 14:35:11 INFO  Reports:27 -  Failed :  Expected : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+
+ Actual : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-18 14:35:13 INFO  Reports:27 - Step 6:Verify all added products are available in the cart
+2019-11-18 14:35:14 ERROR Reports:39 - Step 7:Remove one product and verify the grand total
+2019-11-18 14:35:16 INFO  Reports:27 - driver closed
+2019-11-18 14:36:48 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 14:36:50 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 14:36:51 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 14:36:51 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 14:36:52 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 14:36:53 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 14:36:53 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 14:36:54 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 14:36:55 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 14:36:55 INFO  Reports:27 - #Step 10:Navigate to cart and validate item (Hawt Like a Habanero Shirt (Men's) is added to cart.
+2019-11-18 14:36:57 INFO  Reports:27 - #Step 11:Validate product name
+2019-11-18 14:36:58 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 14:36:58 INFO  Reports:27 - #Step 12:Validate product size
+2019-11-18 14:36:58 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 14:36:58 INFO  Reports:27 - #Step 13:Validate product colour
+2019-11-18 14:36:58 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 14:36:58 INFO  Reports:27 - #Step 14:Validate user name
+2019-11-18 14:36:58 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 14:36:58 INFO  Reports:27 - #Step 15:Validate product price
+2019-11-18 14:36:58 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 14:36:58 INFO  Reports:27 - #Step 16:Validated product total price
+2019-11-18 14:36:58 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 14:36:58 INFO  Reports:27 - #Step 17:Increase the Quantity and Click on the update button
+2019-11-18 14:36:59 INFO  Reports:27 - #Step 18:Verify the total price is updated accordingly
+2019-11-18 14:36:59 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 14:37:00 INFO  Reports:27 - #Step 19:Traverse through all the menus available and verify user redirected to respective pages
+2019-11-18 14:37:31 INFO  Reports:27 - Step 20:driver close
+2019-11-18 15:45:33 INFO  Reports:27 - #Step 1:Browser open
+2019-11-18 15:45:35 INFO  Reports:27 - #Step 2:Enter url
+2019-11-18 15:45:36 INFO  Reports:27 - Step 3:Validate Home page
+2019-11-18 15:45:37 INFO  Reports:27 - validated home page
+2019-11-18 15:45:38 INFO  Reports:27 - #Step 4:Search for products  iPhone (Qty: 2) & MacBook Air (Qty: 3) and add products to the cart
+2019-11-18 15:45:42 INFO  Reports:27 - #Step 5:Validate the data of each product Availability,Product Price (should be in dollar),Ex Tax and Product description
+2019-11-18 15:45:42 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 15:45:42 INFO  Reports:27 -  Passed :  Expected : $123.20 Actual : $123.20
+2019-11-18 15:45:42 INFO  Reports:27 -  Passed :  Expected : Ex Tax: $101.00 Actual : Ex Tax: $101.00
+2019-11-18 15:45:42 INFO  Reports:27 -  Passed :  Expected : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Actual : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-18 15:45:45 INFO  Reports:27 - #Step 4:Search for products  iPhone (Qty: 2) & MacBook Air (Qty: 3) and add products to the cart
+2019-11-18 15:45:49 INFO  Reports:27 - #Step 5:Validate the data of each product Availability,Product Price (should be in dollar),Ex Tax and Product description
+2019-11-18 15:45:49 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 15:45:50 INFO  Reports:27 -  Passed :  Expected : $1,202.00 Actual : $1,202.00
+2019-11-18 15:45:50 INFO  Reports:27 -  Failed :  Expected :  Ex Tax: $1,000.00 Actual : Ex Tax: $1,000.00
+2019-11-18 15:45:50 INFO  Reports:27 -  Failed :  Expected : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+
+ Actual : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-18 15:45:54 INFO  Reports:27 - Step 6:Verify all added products are available in the cart
+2019-11-18 15:45:55 ERROR Reports:39 - Step 7:Remove one product and verify the grand total
+2019-11-18 15:45:56 INFO  Reports:27 - driver closed
+2019-11-18 15:46:20 INFO  Reports:27 - #Step 1:Browser open
+2019-11-18 15:46:23 INFO  Reports:27 - #Step 2:Enter url
+2019-11-18 15:46:24 INFO  Reports:27 - Step 3:Validate Home page
+2019-11-18 15:46:24 INFO  Reports:27 - validated home page
+2019-11-18 15:46:25 INFO  Reports:27 - #Step 4:Search for products  iPhone (Qty: 2) & MacBook Air (Qty: 3) and add products to the cart
+2019-11-18 15:46:28 INFO  Reports:27 - #Step 5:Validate the data of each product Availability,Product Price (should be in dollar),Ex Tax and Product description
+2019-11-18 15:46:29 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 15:46:29 INFO  Reports:27 -  Passed :  Expected : $123.20 Actual : $123.20
+2019-11-18 15:46:29 INFO  Reports:27 -  Passed :  Expected : Ex Tax: $101.00 Actual : Ex Tax: $101.00
+2019-11-18 15:46:30 INFO  Reports:27 -  Passed :  Expected : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Actual : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-18 15:46:33 INFO  Reports:27 - #Step 4:Search for products  iPhone (Qty: 2) & MacBook Air (Qty: 3) and add products to the cart
+2019-11-18 15:46:37 INFO  Reports:27 - #Step 5:Validate the data of each product Availability,Product Price (should be in dollar),Ex Tax and Product description
+2019-11-18 15:46:37 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 15:46:37 INFO  Reports:27 -  Passed :  Expected : $1,202.00 Actual : $1,202.00
+2019-11-18 15:46:38 INFO  Reports:27 -  Failed :  Expected :  Ex Tax: $1,000.00 Actual : Ex Tax: $1,000.00
+2019-11-18 15:46:38 INFO  Reports:27 -  Failed :  Expected : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+
+ Actual : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-18 15:46:41 INFO  Reports:27 - Step 6:Verify all added products are available in the cart
+2019-11-18 15:47:18 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 15:47:21 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 15:47:26 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 15:47:26 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 15:47:28 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 15:47:28 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 15:47:29 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 15:47:30 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 15:47:30 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 15:47:31 INFO  Reports:27 - #Step 10:Navigate to cart and validate item (Hawt Like a Habanero Shirt (Men's) is added to cart.
+2019-11-18 15:47:34 INFO  Reports:27 - #Step 11:Validate product name
+2019-11-18 15:47:34 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 15:47:34 INFO  Reports:27 - #Step 12:Validate product size
+2019-11-18 15:47:34 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 15:47:34 INFO  Reports:27 - #Step 13:Validate product colour
+2019-11-18 15:47:34 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 15:47:34 INFO  Reports:27 - #Step 14:Validate user name
+2019-11-18 15:47:34 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 15:47:34 INFO  Reports:27 - #Step 15:Validate product price
+2019-11-18 15:47:34 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 15:47:34 INFO  Reports:27 - #Step 16:Validated product total price
+2019-11-18 15:47:34 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 15:47:34 INFO  Reports:27 - #Step 17:Increase the Quantity and Click on the update button
+2019-11-18 15:47:35 INFO  Reports:27 - #Step 18:Verify the total price is updated accordingly
+2019-11-18 15:47:36 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 15:47:36 INFO  Reports:27 - #Step 19:Traverse through all the menus available and verify user redirected to respective pages
+2019-11-18 15:48:07 INFO  Reports:27 - Step 20:driver close
+2019-11-18 15:50:49 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 15:50:51 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 15:50:52 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 15:50:52 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 15:50:53 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 15:50:53 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 15:50:54 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 15:50:55 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 15:50:55 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 15:50:56 INFO  Reports:27 - #Step 10:Navigate to cart and validate item (Hawt Like a Habanero Shirt (Men's) is added to cart.
+2019-11-18 15:50:58 INFO  Reports:27 - #Step 11:Validate product name
+2019-11-18 15:50:58 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 15:50:58 INFO  Reports:27 - #Step 12:Validate product size
+2019-11-18 15:50:58 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 15:50:58 INFO  Reports:27 - #Step 13:Validate product colour
+2019-11-18 15:50:58 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 15:50:58 INFO  Reports:27 - #Step 14:Validate user name
+2019-11-18 15:50:58 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 15:50:58 INFO  Reports:27 - #Step 15:Validate product price
+2019-11-18 15:50:58 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 15:50:58 INFO  Reports:27 - #Step 16:Validated product total price
+2019-11-18 15:50:58 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 15:50:58 INFO  Reports:27 - #Step 17:Increase the Quantity and Click on the update button
+2019-11-18 15:51:00 INFO  Reports:27 - #Step 18:Verify the total price is updated accordingly
+2019-11-18 15:51:00 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 15:51:01 INFO  Reports:27 - #Step 19:Traverse through all the menus available and verify user redirected to respective pages
+2019-11-18 15:51:32 INFO  Reports:27 - Step 20:driver close
+2019-11-18 15:52:48 INFO  Reports:27 - driver closed
+2019-11-18 18:01:38 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 18:01:41 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 18:02:18 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 18:02:18 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 18:02:18 INFO  Reports:27 - #Step 19:Traverse through all the menus available and verify user redirected to respective pages
+2019-11-18 18:02:18 INFO  Reports:27 - Step 20:driver close
+2019-11-18 18:09:06 INFO  Reports:27 - #Step 1:Browser open
+2019-11-18 18:09:08 INFO  Reports:27 - #Step 2:Enter url
+2019-11-18 18:09:12 INFO  Reports:27 - Step 3:Validate Home page
+2019-11-18 18:09:12 INFO  Reports:27 - validated home page
+2019-11-18 18:09:13 INFO  Reports:27 - #Step 4:Search for products  iPhone (Qty: 2) & MacBook Air (Qty: 3) and add products to the cart
+2019-11-18 18:09:20 INFO  Reports:27 - #Step 5:Validate the data of each product Availability,Product Price (should be in dollar),Ex Tax and Product description
+2019-11-18 18:09:20 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 18:09:20 INFO  Reports:27 -  Passed :  Expected : $123.20 Actual : $123.20
+2019-11-18 18:09:20 INFO  Reports:27 -  Passed :  Expected : Ex Tax: $101.00 Actual : Ex Tax: $101.00
+2019-11-18 18:09:21 INFO  Reports:27 -  Passed :  Expected : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Actual : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-18 18:09:23 INFO  Reports:27 - #Step 4:Search for products  iPhone (Qty: 2) & MacBook Air (Qty: 3) and add products to the cart
+2019-11-18 18:09:28 INFO  Reports:27 - #Step 5:Validate the data of each product Availability,Product Price (should be in dollar),Ex Tax and Product description
+2019-11-18 18:09:28 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 18:09:28 INFO  Reports:27 -  Passed :  Expected : $1,202.00 Actual : $1,202.00
+2019-11-18 18:09:28 INFO  Reports:27 -  Failed :  Expected :  Ex Tax: $1,000.00 Actual : Ex Tax: $1,000.00
+2019-11-18 18:09:28 INFO  Reports:27 -  Failed :  Expected : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+
+ Actual : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-18 18:09:31 INFO  Reports:27 - Step 6:Verify all added products are available in the cart
+2019-11-18 18:09:32 ERROR Reports:39 - Step 7:Remove one product and verify the grand total
+2019-11-18 18:09:33 INFO  Reports:27 - driver closed
+2019-11-18 18:09:42 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 18:09:44 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 18:09:45 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 18:09:45 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 18:09:47 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 18:09:47 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 18:09:48 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 18:09:49 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 18:09:50 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 18:09:50 INFO  Reports:27 - #Step 10:Navigate to cart and validate item (Hawt Like a Habanero Shirt (Men's) is added to cart.
+2019-11-18 18:10:07 INFO  Reports:27 - #Step 11:Validate product name
+2019-11-18 18:10:07 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 18:10:07 INFO  Reports:27 - #Step 12:Validate product size
+2019-11-18 18:10:07 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 18:10:07 INFO  Reports:27 - #Step 13:Validate product colour
+2019-11-18 18:10:07 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 18:10:07 INFO  Reports:27 - #Step 14:Validate user name
+2019-11-18 18:10:07 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 18:10:07 INFO  Reports:27 - #Step 15:Validate product price
+2019-11-18 18:10:07 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 18:10:07 INFO  Reports:27 - #Step 16:Validated product total price
+2019-11-18 18:10:07 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 18:10:07 INFO  Reports:27 - #Step 17:Increase the Quantity and Click on the update button
+2019-11-18 18:10:08 INFO  Reports:27 - #Step 18:Verify the total price is updated accordingly
+2019-11-18 18:10:09 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 18:10:09 INFO  Reports:27 - #Step 19:Traverse through all the menus available and verify user redirected to respective pages
+2019-11-18 18:10:40 INFO  Reports:27 - Step 20:driver close
+2019-11-18 19:34:50 INFO  Reports:27 - #Step 1:Browser open
+2019-11-18 19:34:52 INFO  Reports:27 - #Step 2:Enter url
+2019-11-18 19:34:54 INFO  Reports:27 - Step 3:Validate Home page
+2019-11-18 19:34:54 INFO  Reports:27 - validated home page
+2019-11-18 19:34:55 INFO  Reports:27 - #Step 4:Search for products  iPhone (Qty: 2) & MacBook Air (Qty: 3) and add products to the cart
+2019-11-18 19:34:59 INFO  Reports:27 - #Step 5:Validate the data of each product Availability,Product Price (should be in dollar),Ex Tax and Product description
+2019-11-18 19:34:59 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 19:35:00 INFO  Reports:27 -  Passed :  Expected : $123.20 Actual : $123.20
+2019-11-18 19:35:00 INFO  Reports:27 -  Passed :  Expected : Ex Tax: $101.00 Actual : Ex Tax: $101.00
+2019-11-18 19:35:00 INFO  Reports:27 -  Passed :  Expected : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Actual : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-18 19:35:03 INFO  Reports:27 - #Step 4:Search for products  iPhone (Qty: 2) & MacBook Air (Qty: 3) and add products to the cart
+2019-11-18 19:35:07 INFO  Reports:27 - #Step 5:Validate the data of each product Availability,Product Price (should be in dollar),Ex Tax and Product description
+2019-11-18 19:35:07 INFO  Reports:27 -  Passed :  Expected : Availability: In Stock Actual : Availability: In Stock
+2019-11-18 19:35:07 INFO  Reports:27 -  Passed :  Expected : $1,202.00 Actual : $1,202.00
+2019-11-18 19:35:07 INFO  Reports:27 -  Failed :  Expected :  Ex Tax: $1,000.00 Actual : Ex Tax: $1,000.00
+2019-11-18 19:35:08 INFO  Reports:27 -  Failed :  Expected : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+
+ Actual : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-18 19:35:11 INFO  Reports:27 - Step 6:Verify all added products are available in the cart
+2019-11-18 19:35:12 ERROR Reports:39 - Step 7:Remove one product and verify the grand total
+2019-11-18 19:35:14 INFO  Reports:27 - Step 8:driver closed
+2019-11-18 19:38:36 INFO  Reports:27 - #Step 1: Browser opening
+2019-11-18 19:38:38 INFO  Reports:27 - #Step 2: Entering  url
+2019-11-18 19:38:44 INFO  Reports:27 - #Step 3: User landed successfully in home page
+2019-11-18 19:38:44 INFO  Reports:27 - #Step 4: Select "MERCHANDISE > MENS" from the tabs in header
+2019-11-18 19:38:45 INFO  Reports:27 - #Step 5:Verify "Viewing Mens" text is displayed
+2019-11-18 19:38:46 INFO  Reports:27 - #Step 6:Now select "BUY NOW" for product -   Hawt Like a Habanero Shirt (Men's)  
+2019-11-18 19:38:46 INFO  Reports:27 - #Step 7:Select color (red) and size (M) from modal popup window
+2019-11-18 19:38:48 INFO  Reports:27 - #Step 8:Enter Personalized name
+2019-11-18 19:38:48 INFO  Reports:27 - #Step 9:Click on "Buy Now"
+2019-11-18 19:38:48 INFO  Reports:27 - #Step 10:Navigate to cart and validate item (Hawt Like a Habanero Shirt (Men's) is added to cart.
+2019-11-18 19:38:50 INFO  Reports:27 - #Step 11:Validate product name
+2019-11-18 19:38:51 INFO  Reports:27 -  Failed :  Expected : Hawt Like a Habanero Shirt (Mens) Actual : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 19:38:51 INFO  Reports:27 - #Step 12:Validate product size
+2019-11-18 19:38:51 INFO  Reports:27 -  Passed :  Expected : Shirt Size: M Actual : Shirt Size: M
+2019-11-18 19:38:51 INFO  Reports:27 - #Step 13:Validate product colour
+2019-11-18 19:38:51 INFO  Reports:27 -  Passed :  Expected : Shirt Color: Red Actual : Shirt Color: Red
+2019-11-18 19:38:51 INFO  Reports:27 - #Step 14:Validate user name
+2019-11-18 19:38:51 INFO  Reports:27 -  Passed :  Expected : Personalized Name: ranjitha Actual : Personalized Name: ranjitha
+2019-11-18 19:38:51 INFO  Reports:27 - #Step 15:Validate product price
+2019-11-18 19:38:51 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 19:38:51 INFO  Reports:27 - #Step 16:Validated product total price
+2019-11-18 19:38:51 INFO  Reports:27 -  Passed :  Expected : $14.99 Actual : $14.99
+2019-11-18 19:38:51 INFO  Reports:27 - #Step 17:Increase the Quantity and Click on the update button
+2019-11-18 19:38:52 INFO  Reports:27 - #Step 18:Verify the total price is updated accordingly
+2019-11-18 19:38:52 INFO  Reports:27 -  Failed :  Expected : $44.97 Actual : $14.99
+2019-11-18 19:38:53 INFO  Reports:27 - #Step 19:Traverse through all the menus available and verify user redirected to respective pages
+2019-11-18 19:39:24 INFO  Reports:27 - Step 20:driver close

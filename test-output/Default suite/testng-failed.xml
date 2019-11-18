@@ -3,14 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.atmecs.assignment.testscript.TestScript">
+      <class name="com.atmecs.heatclinic.testscript.HeatClinic">
         <methods>
-          <include name="PageRedirection"/>
-          <include name="browserClose"/>
-          <include name="productValidation"/>
           <include name="browserLaunch"/>
+          <include name="productValidation"/>
+          <include name="browserClose"/>
+          <include name="PageRedirection"/>
         </methods>
-      </class> <!-- com.atmecs.assignment.testscript.TestScript -->
+      </class> <!-- com.atmecs.heatclinic.testscript.HeatClinic -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

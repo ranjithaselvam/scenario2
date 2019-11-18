@@ -4,7 +4,6 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 
 import com.atmecs.assignment.objectrepository.ObjectRepository;
@@ -15,45 +14,20 @@ public class Helper {
 	public Reports report = new Reports();
 	public ObjectRepository objRep = new ObjectRepository();
 
-	/**
-	 * Check particular text box is enable to print or not(visibility of the web
-	 * element).
+
+	/**Clear previous text in search box
 	 * 
 	 * @param driver
 	 * @param element
-	 * @return
 	 */
-
-	public boolean elementIsEnabled(WebDriver driver, String element) {
+	public void clearText(WebDriver driver,String element)
+	{
 		try {
 			WebElement webElement = objRep.findObject(driver, element);
-			boolean enabled = webElement.isEnabled();
-			return enabled;
+			webElement.clear();
 		} catch (Exception e) {
 			e.printStackTrace();
-
 		}
-		return false;
-	}
-
-	/**
-	 * Check particular radio button,drop down,check box is selected or not
-	 * 
-	 * @param driver
-	 * @param element
-	 * @return
-	 */
-
-	public boolean elementIsSelected(WebDriver driver, String element) {
-		try {
-			WebElement webElement = objRep.findObject(driver, element);
-			boolean selected = webElement.isSelected();
-			return selected;
-		} catch (Exception e) {
-			e.printStackTrace();
-
-		}
-		return false;
 	}
 
 	/**
@@ -131,34 +105,6 @@ public class Helper {
 
 		}
 
-	}
-
-	/**
-	 * Easy to choose or select an option given under any drop
-	 * downs.(value,index,visibility)
-	 * 
-	 * @param element
-	 * @param value
-	 * @param option
-	 */
-
-	public void selectDropDown(WebDriver driver, String element, String value, String option) {
-		try {
-			// waitForElementVisibility(element);
-			WebElement webElement = objRep.findObject(driver, element);
-			Select sc = new Select(webElement);
-			if (option.equalsIgnoreCase("value")) {
-				sc.selectByValue(value);
-			} else if (option.equalsIgnoreCase("visibletext")) {
-				sc.deselectByVisibleText(value);
-			} else if (option.equalsIgnoreCase("index")) {
-				sc.selectByIndex(Integer.parseInt(value));
-			}
-
-		} catch (Exception e) {
-
-			e.printStackTrace();
-		}
 	}
 
 	/**

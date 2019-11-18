@@ -131,10 +131,10 @@ public class Utils {
 			Connection con=DriverManager.getConnection(  
 					Constant.dbUrl,Constant.dbUserName,Constant.dbPassword);   
 					Statement stmt=con.createStatement();
-					ResultSet rs=stmt.executeQuery(query);
-					while(rs.next())
+					ResultSet results=stmt.executeQuery(query);
+					while(results.next())
 					{
-					    data = rs.getString(columnName);
+					    data = results.getString(columnName);
 					
 					}
 					con.close();

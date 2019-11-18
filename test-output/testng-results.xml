@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-11-15T19:57:23 IST" name="Default suite" finished-at="2019-11-15T19:57:37 IST" duration-ms="14026">
+  <suite started-at="2019-11-18T19:38:36 IST" name="Default suite" finished-at="2019-11-18T19:39:24 IST" duration-ms="48523">
     <groups>
     </groups>
-    <test started-at="2019-11-15T19:57:23 IST" name="Default test" finished-at="2019-11-15T19:57:37 IST" duration-ms="14026">
-      <class name="com.atmecs.assignment.testscript.TestScript">
-        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.atmecs.assignment.testscript.TestScript@48aaecc3]" started-at="2019-11-15T19:57:23 IST" name="browserLaunch" finished-at="2019-11-15T19:57:26 IST" duration-ms="2951" status="PASS">
+    <test started-at="2019-11-18T19:38:36 IST" name="Default test" finished-at="2019-11-18T19:39:24 IST" duration-ms="48523">
+      <class name="com.atmecs.heatclinic.testscript.HeatClinic">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.atmecs.heatclinic.testscript.HeatClinic@48aaecc3]" started-at="2019-11-18T19:38:36 IST" name="browserLaunch" finished-at="2019-11-18T19:38:44 IST" duration-ms="7991" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserLaunch -->
-        <test-method signature="productValidation()[pri:1, instance:com.atmecs.assignment.testscript.TestScript@48aaecc3]" started-at="2019-11-15T19:57:26 IST" name="productValidation" finished-at="2019-11-15T19:57:34 IST" duration-ms="8869" status="PASS">
+        <test-method signature="productValidation()[pri:1, instance:com.atmecs.heatclinic.testscript.HeatClinic@48aaecc3]" started-at="2019-11-18T19:38:44 IST" name="productValidation" finished-at="2019-11-18T19:38:53 IST" duration-ms="9318" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productValidation -->
-        <test-method signature="PageRedirection()[pri:2, instance:com.atmecs.assignment.testscript.TestScript@48aaecc3]" started-at="2019-11-15T19:57:34 IST" name="PageRedirection" finished-at="2019-11-15T19:57:37 IST" duration-ms="2141" status="PASS">
+        <test-method signature="PageRedirection()[pri:2, instance:com.atmecs.heatclinic.testscript.HeatClinic@48aaecc3]" started-at="2019-11-18T19:38:53 IST" name="PageRedirection" finished-at="2019-11-18T19:39:24 IST" duration-ms="31098" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PageRedirection -->
-        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.atmecs.assignment.testscript.TestScript@48aaecc3]" started-at="2019-11-15T19:57:37 IST" name="browserClose" finished-at="2019-11-15T19:57:37 IST" duration-ms="32" status="PASS">
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.atmecs.heatclinic.testscript.HeatClinic@48aaecc3]" started-at="2019-11-18T19:39:24 IST" name="browserClose" finished-at="2019-11-18T19:39:24 IST" duration-ms="48" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserClose -->
-      </class> <!-- com.atmecs.assignment.testscript.TestScript -->
+      </class> <!-- com.atmecs.heatclinic.testscript.HeatClinic -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

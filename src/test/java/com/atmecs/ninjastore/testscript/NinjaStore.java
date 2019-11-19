@@ -27,7 +27,8 @@ public class NinjaStore extends Base {
 			getBrowser(utils.propertyRead(Constant.config_file,"browserName"));
 			
 			report.logInfo("#Step 2:Enter url");
-			getUrl(utils.propertyRead(Constant.config_file,"ninjaStoreUrl"));
+			getUrl();
+		//getUrl(utils.propertyRead(Constant.config_file,"ninjaStoreUrl"));
 			
 
 		}

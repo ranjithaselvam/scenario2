@@ -9,4 +9,4 @@
 		<suite-file
 			path="./src/test/resources/NinjaStoreResource/suite/productvalidation.xml"/>
 	</suite-files>
-</suite> <!-- Suite -->
+</suite> 

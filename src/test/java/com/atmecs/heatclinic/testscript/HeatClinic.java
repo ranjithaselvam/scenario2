@@ -19,7 +19,8 @@ public class HeatClinic extends Base {
 		report.logInfo("#Step 1: Browser opening");
 		getBrowser(utils.propertyRead(Constant.config_file, "browserName"));
 		report.logInfo("#Step 2: Entering  url");
-		getUrl(utils.propertyRead(Constant.config_file, "heatClinicUrl"));
+		//getUrl(utils.propertyRead(Constant.config_file, "heatClinicUrl"));
+		getUrl();
 
 	}
 
@@ -116,7 +117,7 @@ public class HeatClinic extends Base {
 	 * 
 	 */
 
-	@Test(priority = 2)
+	/**@Test(priority = 2)
 	public void PageRedirection() {
 		
         report.logInfo("#Step 19:Traverse through all the menus available and verify user redirected to respective pages");
@@ -129,7 +130,7 @@ public class HeatClinic extends Base {
 		helper.move(driver, utils.propertyRead(Constant.ninjaStoreHomePage_file, "loc_faq"));
 		
 
-	}
+	}*/
 
 	@AfterClass
 	public void browserClose() {

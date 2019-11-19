@@ -50,10 +50,13 @@ public class Base {
 	 * Get url from property file.
 	 * 
 	 */
-	public void getUrl(String url) {
+	public void getUrl()//String url)
+	{
 		try {
 			//String url = utils.propertyRead(Constant.config_file, "url");
-			driver.get(url);
+			//driver.get(url);
+			String BaseURL= System.getProperty("customproperty");
+			driver.get(BaseURL);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

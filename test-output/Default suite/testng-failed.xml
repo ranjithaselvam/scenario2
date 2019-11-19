@@ -6,7 +6,6 @@
       <class name="com.atmecs.heatclinic.testscript.HeatClinic">
         <methods>
           <include name="browserLaunch"/>
-          <include name="productValidation"/>
           <include name="browserClose"/>
           <include name="PageRedirection"/>
         </methods>

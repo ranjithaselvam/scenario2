@@ -1,29 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-11-18T19:38:36 IST" name="Default suite" finished-at="2019-11-18T19:39:24 IST" duration-ms="48523">
+  <suite started-at="2019-11-19T17:59:04 IST" name="AssessmentTwo" finished-at="2019-11-19T17:59:04 IST" duration-ms="0">
     <groups>
     </groups>
-    <test started-at="2019-11-18T19:38:36 IST" name="Default test" finished-at="2019-11-18T19:39:24 IST" duration-ms="48523">
-      <class name="com.atmecs.heatclinic.testscript.HeatClinic">
-        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.atmecs.heatclinic.testscript.HeatClinic@48aaecc3]" started-at="2019-11-18T19:38:36 IST" name="browserLaunch" finished-at="2019-11-18T19:38:44 IST" duration-ms="7991" status="PASS">
+  </suite> <!-- AssessmentTwo -->
+  <suite started-at="2019-11-19T17:58:45 IST" name="automateninjaStore" finished-at="2019-11-19T17:59:04 IST" duration-ms="18934">
+    <groups>
+    </groups>
+    <test started-at="2019-11-19T17:58:45 IST" name="productvalidation" finished-at="2019-11-19T17:59:04 IST" duration-ms="18934">
+      <class name="com.atmecs.ninjastore.testscript.NinjaStore">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.atmecs.ninjastore.testscript.NinjaStore@9225652]" started-at="2019-11-19T17:58:45 IST" name="browserLaunch" finished-at="2019-11-19T17:58:48 IST" duration-ms="2817" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserLaunch -->
-        <test-method signature="productValidation()[pri:1, instance:com.atmecs.heatclinic.testscript.HeatClinic@48aaecc3]" started-at="2019-11-18T19:38:44 IST" name="productValidation" finished-at="2019-11-18T19:38:53 IST" duration-ms="9318" status="PASS">
+        <test-method signature="homePageValidation()[pri:1, instance:com.atmecs.ninjastore.testscript.NinjaStore@9225652]" started-at="2019-11-19T17:58:48 IST" name="homePageValidation" finished-at="2019-11-19T17:58:48 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageValidation -->
+        <test-method signature="productValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.atmecs.ninjastore.testscript.NinjaStore@9225652]" started-at="2019-11-19T17:58:49 IST" name="productValidation" data-provider="productSearch" finished-at="2019-11-19T17:58:55 IST" duration-ms="6667" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphone]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Availability: In Stock]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[$123.20]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ex Tax: $101.00]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productValidation -->
-        <test-method signature="PageRedirection()[pri:2, instance:com.atmecs.heatclinic.testscript.HeatClinic@48aaecc3]" started-at="2019-11-18T19:38:53 IST" name="PageRedirection" finished-at="2019-11-18T19:39:24 IST" duration-ms="31098" status="PASS">
+        <test-method signature="productValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.atmecs.ninjastore.testscript.NinjaStore@9225652]" started-at="2019-11-19T17:58:55 IST" name="productValidation" data-provider="productSearch" finished-at="2019-11-19T17:59:02 IST" duration-ms="6346" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[macbook air]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Availability: In Stock]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[$1,202.00]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ Ex Tax: $1,000.00]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+
+]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- PageRedirection -->
-        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.atmecs.heatclinic.testscript.HeatClinic@48aaecc3]" started-at="2019-11-18T19:39:24 IST" name="browserClose" finished-at="2019-11-18T19:39:24 IST" duration-ms="48" status="PASS">
+        </test-method> <!-- productValidation -->
+        <test-method signature="ProductDetails()[pri:3, instance:com.atmecs.ninjastore.testscript.NinjaStore@9225652]" started-at="2019-11-19T17:59:02 IST" name="ProductDetails" finished-at="2019-11-19T17:59:04 IST" duration-ms="2013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductDetails -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.atmecs.ninjastore.testscript.NinjaStore@9225652]" started-at="2019-11-19T17:59:04 IST" name="browserClose" finished-at="2019-11-19T17:59:04 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.atmecs.ninjastore.testscript.NinjaStore -->
+    </test> <!-- productvalidation -->
+  </suite> <!-- automateninjaStore -->
+  <suite started-at="2019-11-19T17:58:03 IST" name="Automateheatclinic" finished-at="2019-11-19T17:58:45 IST" duration-ms="42114">
+    <groups>
+    </groups>
+    <test started-at="2019-11-19T17:58:03 IST" name="productverification" finished-at="2019-11-19T17:58:45 IST" duration-ms="42114">
+      <class name="com.atmecs.heatclinic.testscript.HeatClinic">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.atmecs.heatclinic.testscript.HeatClinic@5be6e01c]" started-at="2019-11-19T17:58:03 IST" name="browserLaunch" finished-at="2019-11-19T17:58:06 IST" duration-ms="3342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="productValidation()[pri:1, instance:com.atmecs.heatclinic.testscript.HeatClinic@5be6e01c]" started-at="2019-11-19T17:58:06 IST" name="productValidation" finished-at="2019-11-19T17:58:45 IST" duration-ms="38653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productValidation -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.atmecs.heatclinic.testscript.HeatClinic@5be6e01c]" started-at="2019-11-19T17:58:45 IST" name="browserClose" finished-at="2019-11-19T17:58:45 IST" duration-ms="40" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserClose -->
       </class> <!-- com.atmecs.heatclinic.testscript.HeatClinic -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- productverification -->
+  </suite> <!-- Automateheatclinic -->
 </testng-results>

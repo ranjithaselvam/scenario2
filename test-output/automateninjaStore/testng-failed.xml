@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [automateninjaStore]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="productvalidation(failed)">
+    <classes>
+      <class name="com.atmecs.ninjastore.testscript.NinjaStore">
+        <methods>
+          <include name="ProductDetails"/>
+          <include name="browserClose"/>
+          <include name="browserLaunch"/>
+          <include name="productValidation" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- com.atmecs.ninjastore.testscript.NinjaStore -->
+    </classes>
+  </test> <!-- productvalidation(failed) -->
+</suite> <!-- Failed suite [automateninjaStore] -->
